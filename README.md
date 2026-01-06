@@ -1,13 +1,14 @@
-![FONDO 001](https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
-
 # Alfredo Gonzalez Mendez
 ##  I.S.C. _Data Scientist Certified_ 
-## DataLake | Python | Pandas | Numpy |  
-## Power BI | Excel | 
+### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
+
+![FONDO 001](https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
+
+
 
 | Imagen Izquierda | Imagen Derecha |
 | :---: | :---: |
-| ![Descripción](URL_IMAGEN_1) | ![Descripción](URL_IMAGEN_2) |
+| ![Proyecto de ](URL_IMAGEN_1) | ![Descripción](URL_IMAGEN_2) |
 
 
 •	Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
