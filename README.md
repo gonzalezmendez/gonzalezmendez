@@ -15,7 +15,8 @@
 
 | Data Scientist 610 Hrs - TripleTen LatAm | Python Profesional - Código Facilito |
 | :---: | :---: |
-| ![Proyecto de ](URL_IMAGEN_1) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1HgjLcMcxdILMmOkSTVguXTKnHZS1zyGj) |
+| ![Proyecto de ](URL_IMAGEN_1) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) |
+
 
 
 ### Educación
