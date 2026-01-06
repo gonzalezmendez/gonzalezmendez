@@ -5,6 +5,11 @@
 ## DataLake | Python | Pandas | Numpy |  
 ## Power BI | Excel | 
 
+| Imagen Izquierda | Imagen Derecha |
+| :---: | :---: |
+| ![Descripción](URL_IMAGEN_1) | ![Descripción](URL_IMAGEN_2) |
+
+
 •	Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
 •	Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
 •	Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
