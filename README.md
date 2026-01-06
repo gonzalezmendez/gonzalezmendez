@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img src="[https://drive.google.com/file/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8/view?usp=drive_link](https://drive.google.com/file/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8/view?usp=sharing)" width="500">
-
+![FONDO 001](https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
 
 
 
