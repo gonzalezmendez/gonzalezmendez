@@ -17,7 +17,10 @@
 | :---: | :---: | 
 | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing| aaa |
 
-/// Python Profesional.pdf
+| Desktop | Tablet | Mobile |
+| :---: | :---: | :---: |
+| <img src="URL_1" width="200"> | <img src="URL_2" width="200"> | <img src="URL_3" width="200"> |
+| *Vista de escritorio* | *Vista Tablet* | *Vista Móvil* |
 
 ### Educación
 ##### 
