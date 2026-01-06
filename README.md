@@ -1,15 +1,7 @@
 ## Hi there 👋
 
-<a href="[ruta/de/la/imagen.png](https://drive.google.com/file/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8/view?usp=drive_link)" target="_blank">
-  <img src="[ruta/de-la-imagen.png](https://drive.google.com/file/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8/view?usp=drive_link)" width="400">
-</a>
+<img src="https://drive.google.com/file/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8/view?usp=drive_link" alt="Texto alternativo" width="500">
 
-
-
-
-
-
-https://www.facebook.com/AlfredoGlezMdz
 
 ![Bluesky followers](https://img.shields.io/bluesky/followers/:actor)
 
