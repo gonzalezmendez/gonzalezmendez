@@ -14,7 +14,10 @@
 
 | Curso | Certificado |
 | :---: | :---: |
-| Data Scientist | [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) |
+| Data Scientist | <div style="width:300px">[![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) </div> |
+
+
+
 
 | Data Scientist | Python Profesional | Apps de Inteligencia Artificial con C# y Azure |
 | :---: | :---: | :---: |
