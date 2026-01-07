@@ -2,8 +2,7 @@
 ##  I.S.C. _Data Scientist Certified_ 
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
 
-![FONDO 001](https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
-
+![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
 ##### Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
 ##### Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
