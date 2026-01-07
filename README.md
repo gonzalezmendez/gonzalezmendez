@@ -13,7 +13,7 @@
 ##### Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
 
 | Curso | <div style="width:500"> Certificado </div> |
-| :---: | :---: |
+| :--- | :--- |
 | Data Scientist | [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) |
 
 
