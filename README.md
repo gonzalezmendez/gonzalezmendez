@@ -7,19 +7,19 @@
 
 ### Sobre mi
 
-:technologist: _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
+🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
 
-:chart_with_upwards_trend: _Competencias avanzadas en modelado estadístico, y visualización de datos._
+📊 _Competencias avanzadas en modelado estadístico, y visualización de datos._
 
-:chart_with_upwards_trend: _Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave._
+🕹️ _Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave._
 
-:busts_in_silhouette: _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
+🗣️ _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
 
-:mag: _Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
+🔮 _Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
 
-:sparkles: _Aplicación de machine learning y estadística inferencial para generar insights accionables._
+🧠 _Aplicación de machine learning y estadística inferencial para generar insights accionables._
 
-:bulb: _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
+🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
 
 
 | **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
@@ -34,17 +34,17 @@
 ### Competencias
 
 
-:sparkles: _Razonamiento crítico y analítico._
+🧐 _Razonamiento crítico y analítico._
 
-:sparkles: _Comunicación efectiva con equipos interdisciplinarios._
+💬 _Comunicación efectiva con equipos interdisciplinarios._
 
-:sparkles: _Toma de decisiones basada en análisis de datos._
+🎯 _Toma de decisiones basada en análisis de datos._
 
-:sparkles: _Organización y atención al detalle._
+📌 _Organización y atención al detalle._
 
-:sparkles: _Resolución de problemas complejos._
+🧩 _Resolución de problemas complejos._
 
-:sparkles: _Trabajo colaborativo en entornos digitales._
+🌐 _Trabajo colaborativo en entornos digitales._
 
 
 ### Contacto:
