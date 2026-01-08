@@ -8,10 +8,12 @@
 <table style="width: 400px;">
   <thead>
     <tr>
-      <th>Sobre Mi</th>
+      <th>Sobre mi</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
     :sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
     :sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.
     :sparkles: Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
@@ -19,9 +21,9 @@
     :sparkles: Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
     :sparkles: Aplicación de machine learning y estadística inferencial para generar insights accionables.
     :sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
+    </tr>
   </tbody>
 </table>
-
 
 
 
