@@ -7,7 +7,7 @@
 
 :sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
 
-:sparkles: Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
+:sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.
 
 :sparkles: Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
 
