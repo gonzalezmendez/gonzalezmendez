@@ -13,13 +13,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>:sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.</td>
-      <td>:sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.</td>
-      <td>:sparkles: Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.</td>
-      <td>:sparkles: Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.</td>
-      <td>:sparkles: Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).</td>
-      <td>:sparkles: Aplicación de machine learning y estadística inferencial para generar insights accionables.</td>
-      <td>:sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.</td>
+      <td>:sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+      <td>:sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.
+      <td>:sparkles: Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
+      <td>:sparkles: Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
+      <td>:sparkles: Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
+      <td>:sparkles: Aplicación de machine learning y estadística inferencial para generar insights accionables.
+      <td>:sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
         
       
     </tr>
