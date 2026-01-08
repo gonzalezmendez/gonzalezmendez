@@ -5,6 +5,8 @@
 
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
+
+
 <table style="width: 400px;">
   <thead>
     <tr>
@@ -14,16 +16,21 @@
   <tbody>
     <tr>
       <td>
-    :sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
-    :sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.
-    :sparkles: Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
-    :sparkles: Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
-    :sparkles: Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
-    :sparkles: Aplicación de machine learning y estadística inferencial para generar insights accionables.
-    :sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
+          :sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+          :sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.
+          :sparkles: Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
+          :sparkles: Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
+          :sparkles: Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
+          :sparkles: Aplicación de machine learning y estadística inferencial para generar insights accionables.
+          :sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
+      </td>
     </tr>
   </tbody>
 </table>
+
+
+
+ 
 
 
 
