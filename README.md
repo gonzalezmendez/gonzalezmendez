@@ -1,3 +1,7 @@
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="alfredogonzalezmendez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/alfredogonzalezmendez?trk=profile-badge">Alfredo Gonzalez Mendez</a></div>
+              
+
+
 # Alfredo González Méndez
 ##  I.S.C. _Data Scientist Certified_ 
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
