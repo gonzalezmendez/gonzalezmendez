@@ -1,5 +1,5 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
-##  I.S.C. _Data Scientist Certified_ 
+##  I.S.C. _Data Scientist Certified_      ![Hora](https://img.shields.io/badge/Hora%20Local-GMT--5-blue?style=flat-square&logo=clockify)
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
 <hr>
 
