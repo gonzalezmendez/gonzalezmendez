@@ -7,7 +7,7 @@
 
 <hr>
 
-💻 **Sobre mi**
+💻 ### Sobre mi
   
   🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
   
