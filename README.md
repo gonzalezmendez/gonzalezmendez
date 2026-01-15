@@ -2,19 +2,16 @@
 ##  I.S.C. _Data Scientist Certified_ 
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
 
+![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
+
 <details>
-  <summary><b>Click aquí para desplegar el menú</b></summary>
+  <summary><b>💻 ### Sobre mi</b></summary>
   
   * [Inicio](#)
   * [Documentación](#)
   * [Ejemplos](#)
   * [Contacto](#)
 </details>
-
-
-![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
-
-### Sobre mi
 
 🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
 
