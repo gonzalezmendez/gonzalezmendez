@@ -2,6 +2,7 @@
 ##  I.S.C. _Data Scientist Certified_ 
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
 <hr>
+
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
 <hr>
