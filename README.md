@@ -6,7 +6,7 @@
 
 <details>
   <summary><b>💻 Sobre mi</b></summary>
-  
+  ---
   🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
   
   📊 _Competencias avanzadas en modelado estadístico, y visualización de datos._
