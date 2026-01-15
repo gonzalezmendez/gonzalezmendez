@@ -5,15 +5,15 @@
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
 <details>
-  <summary><b>💻 ### Sobre mi</b></summary>
+  <summary><b>💻 Sobre mi</b></summary>
   
-  * [Inicio](#)
+  * [🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._](#)
   * [Documentación](#)
   * [Ejemplos](#)
   * [Contacto](#)
 </details>
 
-🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
+
 
 📊 _Competencias avanzadas en modelado estadístico, y visualización de datos._
 
