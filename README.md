@@ -1,5 +1,5 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
-##  I.S.C. _Data Scientist Certified_      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+##  I.S.C. _Data Scientist Certified_
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
 <hr>
 
