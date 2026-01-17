@@ -11,7 +11,7 @@
 
 | **Tienda de Videojuegos** | **Pozos Petroleros "OilyGiant"**| **Subiendo...** |
 | :---: | :---: | :---: |
-| [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | ![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
+| [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
 | **Proyeccion para campaña publicitaria del 2016 al 2017** | **Aprendizaje automático en negocios** | **Sorpresa!** |
 <hr>
 
