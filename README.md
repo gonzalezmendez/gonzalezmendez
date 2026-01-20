@@ -11,16 +11,6 @@
 | [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
 | **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Sorpresa!** |
 
-
-### 🚀 Key Expertise
-
-| | |
-| :--- | :--- |
-| 🏗️ **Data Architecture** | `+8 Years` `Strategic Analysis` `Data Ops` |
-| 🔮 **Advanced Stats** | `A/B Testing` `Bayesian Inference` `Levene Tests` |
-| 🧠 **Machine Learning** | `Predictive Modeling` `Inferential Insights` |
-| 📊 **BI & Storytelling** | `KPI Dashboards` `Executive Communication` |
-
 ---
 ## Sobre mi
   
