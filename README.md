@@ -2,12 +2,6 @@
 ##  I.S.C. _Data Scientist Certified_
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | Tableau
 
-
-<font color="red">Este texto es rojo</font>
-<font color="blue">Este texto es azul</font>
-<font color="#800080">Este texto usa un código Hexadecimal (Púrpura)</font>
-
-
 ![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/FondoGit.png)
 
 ### Proyectos
