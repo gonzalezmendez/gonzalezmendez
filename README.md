@@ -5,13 +5,12 @@
 ![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/FondoGit.png)
 
 ## Proyectos
-
+#
 | **Tienda de Videojuegos** | **Pozos Petroleros "OilyGiant"**| **Subiendo...** |
 | :---: | :---: | :---: |
 | [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
 | **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Sorpresa!** |
 
----
 ## Sobre mi
   
   🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
