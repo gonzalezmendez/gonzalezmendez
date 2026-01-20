@@ -4,16 +4,14 @@
 
 ![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/FondoGit.png)
 
-### Proyectos
+## Proyectos
 
 | **Tienda de Videojuegos** | **Pozos Petroleros "OilyGiant"**| **Subiendo...** |
 | :---: | :---: | :---: |
 | [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
 | **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Sorpresa!** |
 
-
-
-### Sobre mi
+## Sobre mi
   
   🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
   
@@ -29,44 +27,7 @@
   
   🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
 
-<table>
-  <thead>
-    <tr style="background-color: #2C3E50; color: white;">
-      <th align="center">DATA SCIENTIST</th>
-      <th align="center">PYTHON PROFESIONAL</th>
-      <th align="center">APPS IA CON C# Y AZURE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV" alt="Data Scientist"></a></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB" alt="Python Profesional"></a></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_" alt="Apps IA"></a></td>
-    </tr>
-    <tr style="background-color: #f2f2f2;">
-      <td align="center"><strong>TripleTen - 610h</strong></td>
-      <td align="center"><strong>códigofacilito - 8h 39m</strong></td>
-      <td align="center"><strong>códigofacilito - 2h 54m</strong></td>
-    </tr>
-    <tr style="background-color: #2C3E50; color: white;">
-      <th align="center">INTRO. MACHINE LEARNING</th>
-      <th align="center">INGENIERÍA DE PROMPTS</th>
-      <th align="center">PROFESIONAL DE GIT</th>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P" alt="ML"></a></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1" alt="Prompts"></a></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz" alt="Git"></a></td>
-    </tr>
-    <tr style="background-color: #f2f2f2;">
-      <td align="center"><strong>códigofacilito - 4h 9m</strong></td>
-      <td align="center"><strong>códigofacilito - 4h 57m</strong></td>
-      <td align="center"><strong>códigofacilito - 3h 14m</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-### Cursos
+## Cursos
 
 | **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
 | :---: | :---: | :---: |
@@ -76,9 +37,7 @@
 | [![Introducción a Machine Learning ](https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P)](https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing) | [![PIngeniería de prompts](https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1)](https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing) | [![Profesional de Git](https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz)](https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing) |
 | **códigofacilito - 4h 9m** | **códigofacilito - 4h 57m** | **códigofacilito - 3h 14m** |
 
-<hr>
-
-### Competencias
+## Competencias
 
 
 🧐 _Razonamiento crítico y analítico._
@@ -93,9 +52,8 @@
 
 🌐 _Trabajo colaborativo en entornos digitales._
 
-<hr>
 
-### Contacto:
+## Contacto:
 gonzalez.mendez@hotmail.com
 
 https://www.linkedin.com/in/alfredogonzalezmendez/
