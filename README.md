@@ -1,7 +1,7 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
 ##  I.S.C. _Data Scientist Certified_
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | Tableau
-<hr>
+
 
 ![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/FondoGit.png)
 
@@ -11,7 +11,7 @@
 | :---: | :---: | :---: |
 | [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
 | **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Sorpresa!** |
-<hr>
+
 
 
 ### Sobre mi
