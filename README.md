@@ -2,6 +2,10 @@
 ##  I.S.C. _Data Scientist Certified_
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | Tableau
 
+<span style="color:green">Texto verde con span</span>
+<span style="color:orange; font-weight:bold">Texto naranja y negrita</span>
+<span style="background-color:yellow; color:black">Texto con resaltado amarillo</span>
+
 
 ![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/FondoGit.png)
 
