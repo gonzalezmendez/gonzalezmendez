@@ -3,14 +3,14 @@
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | Tableau
 
 ![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/FondoGit.png)
-
+---
 ## Proyectos
-#
+
 | **Tienda de Videojuegos** | **Pozos Petroleros "OilyGiant"**| **Subiendo...** |
 | :---: | :---: | :---: |
 | [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
 | **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Sorpresa!** |
-
+---
 ## Sobre mi
   
   🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
@@ -26,7 +26,7 @@
   🧠 _Aplicación de machine learning y estadística inferencial para generar insights accionables._
   
   🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
-
+---
 ## Cursos
 
 | **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
@@ -36,9 +36,8 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INTRODUCCION A MACHINE LEARNING** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INGENIERIA DE PROMPTS**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PROFESIONAL DE GIT**|
 | [![Introducción a Machine Learning ](https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P)](https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing) | [![PIngeniería de prompts](https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1)](https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing) | [![Profesional de Git](https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz)](https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing) |
 | **códigofacilito - 4h 9m** | **códigofacilito - 4h 57m** | **códigofacilito - 3h 14m** |
-
+---
 ## Competencias
-
 
 🧐 _Razonamiento crítico y analítico._
 
@@ -51,8 +50,7 @@
 🧩 _Resolución de problemas complejos._
 
 🌐 _Trabajo colaborativo en entornos digitales._
-
-
+---
 ## Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzalezmendez)
