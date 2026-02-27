@@ -6,13 +6,6 @@
 ---
 ## Proyectos
 
-| **Análisis Exploratorio y Wrangling (EDA)** | **Machine Learning** |
-| :---: | :---: |
-| <a href="https://github.com/LeTuck/Tienda-de-Videojuegos"><img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="400"></a> | <a href="https://github.com/gonzalezmendez/ML"><img src="https://github.com/LeTuck/LeTuck/blob/images/ML.png?raw=true" width="400"></a> |
-| Limpieza de datos, Visualización, Hipótesis | Supervisado, No Supervisado, Árboles de Decisión, Redes Neuronales, Series Temporales |
-
-
-
 <table width="100%">
   <thead>
     <tr>
