@@ -55,6 +55,6 @@
 <hr>
 
 ### Contacto:
-gonzalez.mendez@hotmail.com
+alfredo.gm.data@gmail.com
 
 https://www.linkedin.com/in/alfredogonzalezmendez/
