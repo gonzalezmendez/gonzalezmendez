@@ -6,9 +6,9 @@
 ---
 ## Proyectos
 
-| **Tienda de Videojuegos** | **Pozos Petroleros "OilyGiant"**| **Machine Learning** |
+| **Análisis Exploratorio y Wrangling (EDA)** | **Pozos Petroleros "OilyGiant"**| **Machine Learning** |
 | :---: | :---: | :---: |
-| [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | [![proceso](https://github.com/LeTuck/LeTuck/blob/images/ML.png)](https://github.com/gonzalezmendez/ML) |
+| [![EDA](https://github.com/LeTuck/LeTuck/blob/images/EDA Y WRANGLING.png)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | [![proceso](https://github.com/LeTuck/LeTuck/blob/images/ML.png)](https://github.com/gonzalezmendez/ML) |
 | **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Exploración, procesamiento y modelado de datos** |
 
 ---
