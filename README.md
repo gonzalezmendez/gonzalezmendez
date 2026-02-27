@@ -1,7 +1,9 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
 ##  I.S.C. _Data Scientist Certified_
 
-![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Fondo2.png)
+<p align="center">
+  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Fondo2.png?raw=true" width="70%" alt="Fondo">
+</p>
 
 ---
 ## Proyectos
