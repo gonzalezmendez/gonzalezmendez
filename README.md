@@ -11,6 +11,35 @@
 | <a href="https://github.com/LeTuck/Tienda-de-Videojuegos"><img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="400"></a> | <a href="https://github.com/gonzalezmendez/ML"><img src="https://github.com/LeTuck/LeTuck/blob/images/ML.png?raw=true" width="400"></a> |
 | Limpieza de datos, Visualización, Hipótesis | Supervisado, No Supervisado, Árboles de Decisión, Redes Neuronales, Series Temporales |
 
+
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><b>Análisis Exploratorio y Wrangling (EDA)</b></th>
+      <th width="50%" align="center"><b>Machine Learning</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="100%">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gonzalezmendez/ML">
+          <img src="https://github.com/LeTuck/LeTuck/blob/images/ML.png?raw=true" width="100%">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">Limpieza de datos, Visualización, Hipótesis</td>
+      <td align="center" valign="top">Supervisado, No Supervisado, Árboles de Decisión, Redes Neuronales, Series Temporales</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 ## Sobre mi
   
