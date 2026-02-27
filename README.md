@@ -10,8 +10,8 @@
   <thead>
     <tr>
       <th width="20%" align="center"><b>Análisis Exploratorio y Wrangling (EDA)</b></th>
-      <th width="20%" align="center"><b>Machine Learning Supervisado</b></th>
-      <th width="20%" align="center"><b>Aprendizaje No Supervisado (Clustering)</b></th>
+      <th width="20%" align="center"><b>ML Supervisado</b></th>
+      <th width="20%" align="center"><b>ML No Supervisado (Clustering)</b></th>
       <th width="20%" align="center"><b>Modelos de Árboles (Ensembles)</b></th>
       <th width="20%" align="center"><b>Deep Learning & NLP</b></th>
     </tr>
