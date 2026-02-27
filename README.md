@@ -8,8 +8,8 @@
 
 | **Análisis Exploratorio y Wrangling (EDA)** | **Machine Learning** |
 | :---: | :---: |
-| [![EDA](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![ML](https://github.com/LeTuck/LeTuck/blob/images/ML.png)](https://github.com/gonzalezmendez/ML) |
-| **Limpieza de datos, Visualizacion, Hipotesis** | **Supervisado, No Supervisado, Árboles de Decisión, Redes Neuronales, Series Temporales** |
+| <a href="https://github.com/LeTuck/Tienda-de-Videojuegos"><img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="400"></a> | <a href="https://github.com/gonzalezmendez/ML"><img src="https://github.com/LeTuck/LeTuck/blob/images/ML.png?raw=true" width="400"></a> |
+| Limpieza de datos, Visualización, Hipótesis | Supervisado, No Supervisado, Árboles de Decisión, Redes Neuronales, Series Temporales |
 
 ---
 ## Sobre mi
