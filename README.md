@@ -8,8 +8,8 @@
 
 | **Análisis Exploratorio y Wrangling (EDA)** | **Machine Learning** |
 | :---: | :---: |
-| [![EDA](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | [![proceso](https://github.com/LeTuck/LeTuck/blob/images/ML.png)](https://github.com/gonzalezmendez/ML) |
-| **Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly** | **Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, PyTorch, NLTK, spaCy, Transformers ** |
+| [![EDA](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![ML](https://github.com/LeTuck/LeTuck/blob/images/ML.png)](https://github.com/gonzalezmendez/ML) |
+| **Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly** | **Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, PyTorch, NLTK, spaCy, Transformers** |
 
 ---
 ## Sobre mi
