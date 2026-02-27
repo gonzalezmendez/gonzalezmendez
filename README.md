@@ -6,10 +6,10 @@
 ---
 ## Proyectos
 
-| **Análisis Exploratorio y Wrangling (EDA)** | **Pozos Petroleros "OilyGiant"**| **Machine Learning** |
-| :---: | :---: | :---: |
+| **Análisis Exploratorio y Wrangling (EDA)** | **Machine Learning** |
+| :---: | :---: |
 | [![EDA](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | [![proceso](https://github.com/LeTuck/LeTuck/blob/images/ML.png)](https://github.com/gonzalezmendez/ML) |
-| **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Exploración, procesamiento y modelado de datos** |
+| **Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly** | **Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, PyTorch, NLTK, spaCy, Transformers ** |
 
 ---
 ## Sobre mi
