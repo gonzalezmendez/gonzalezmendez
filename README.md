@@ -11,9 +11,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%" align="center"><b>Data Preparation (EDA & Wrangling)</b></th>
-      <th width="33%" align="center"><b>Machine Learning</b></th>
-      <th width="33%" align="center"><b>Deep Learning & NLP</b></th>
+      <th width="30%" align="center"><b>Data Preparation (EDA & Wrangling)</b></th>
+      <th width="30%" align="center"><b>Machine Learning</b></th>
+      <th width="30%" align="center"><b>Deep Learning & NLP</b></th>
     </tr>
   </thead>  
   
