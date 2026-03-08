@@ -9,37 +9,55 @@
 ## Proyectos
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="center"><b>Data Preparation (EDA & Wrangling)</b></th>
-      <th width="30%" align="center"><b>Machine Learning</b></th>
-      <th width="30%" align="center"><b>Deep Learning & NLP</b></th>
-    </tr>
-  </thead>  
-  
-  <tbody>
-    <tr>
-      
-      <td align="center">
-        <a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/001.png?raw=true" width="100%">
-        </a>
-      </td>
-      
-      <td align="center">
-        <a href="#">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/002.png?raw=true" width="100%">
-        </a>
-      </td>
-      
-      <td align="center">
-        <a href="#">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/003.png?raw=true" width="100%">
-        </a>
-      </td>
-      
-    </tr>
-  </tbody>  
+<thead>
+<tr>
+<th align="center" width="33%">Data Preparation</th>
+<th align="center" width="33%">Machine Learning</th>
+<th align="center" width="33%">Deep Learning</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/001.png" width="100%">
+</a>
+
+<b>EDA & Data Wrangling</b>
+
+Exploratory analysis, feature cleaning, transformation and data preparation.
+
+</td>
+
+<td align="center">
+
+<a href="#">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/002.png" width="100%">
+</a>
+
+<b>Machine Learning</b>
+
+Supervised models, evaluation metrics, pipelines and feature engineering.
+
+</td>
+
+<td align="center">
+
+<a href="#">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/003.png" width="100%">
+</a>
+
+<b>Deep Learning & NLP</b>
+
+Neural networks, embeddings, transformers and language models.
+
+</td>
+
+</tr>
+</tbody>
 </table>
 
 ---
