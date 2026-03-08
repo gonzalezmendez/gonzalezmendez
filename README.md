@@ -28,8 +28,8 @@
 
 <b>EDA & Data Wrangling</b>
 
-Exploratory analysis, feature cleaning, transformation and data preparation.<br>
-Análisis exploratorio, limpieza de características, transformación y preparación de datos.
+Análisis exploratorio, limpieza de características, transformación y preparación de datos.<br><br>
+Exploratory analysis, feature cleaning, transformation and data preparation.
 
 </td>
 
@@ -41,8 +41,8 @@ Análisis exploratorio, limpieza de características, transformación y preparac
 
 <b>Machine Learning</b>
 
-Supervised models, evaluation metrics, pipelines and feature engineering.<br>
-Modelos supervisados, métricas de evaluación, canalizaciones e ingeniería de características
+Modelos supervisados, métricas de evaluación, canalizaciones e ingeniería de características.<br><br>
+Supervised models, evaluation metrics, pipelines and feature engineering.
 
 </td>
 
@@ -54,8 +54,8 @@ Modelos supervisados, métricas de evaluación, canalizaciones e ingeniería de 
 
 <b>Deep Learning & NLP</b>
 
-Neural networks, embeddings, transformers and language models.<br>
-Redes neuronales, embeddings, transformadores y modelos de lenguaje.
+Redes neuronales, embeddings, transformadores y modelos de lenguaje.<br><br>
+Neural networks, embeddings, transformers and language models.
 
 </td>
 
