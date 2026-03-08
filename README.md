@@ -11,44 +11,35 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="20%" align="center"><b>Análisis Exploratorio y Wrangling (EDA)</b></th>
-      <th width="20%" align="center"><b>ML Supervisado</b></th>
-      <th width="20%" align="center"><b>ML No Supervisado (Clustering)</b></th>
-      <th width="20%" align="center"><b>Modelos de Árboles (Ensembles)</b></th>
-      <th width="20%" align="center"><b>Deep Learning & NLP</b></th>
+      <th width="30%" align="center"><b>Data Preparation (EDA & Wrangling))</b></th>
+      <th width="30%" align="center"><b>Machine Learning</b></th>
+      <th width="30%" align="center"><b>Deep Learning & NLP</b></th>
     </tr>
-  </thead>
+  </thead>  
   
   <tbody>
     <tr>
+      
       <td align="center">
         <a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="100%">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/001.png?raw=true" width="100%">
         </a>
       </td>
-  <td align="center">
-        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20SUPERVISADO.png" width="100%">
-        </a>
-      </td>
+      
       <td align="center">
         <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20NO%20SUPERVISADO.png" width="100%">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/002.png" width="100%">
         </a>
       </td>
+      
       <td align="center">
         <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20ARBOLES.png" width="100%">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/003.png" width="100%">
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/gonzalezmendez/ML">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20DEEP%20LEARNING.png" width="100%">
-        </a>
-      </td>
+      
     </tr>
-  </tbody>
-  
+  </tbody>  
 </table>
 
 ---
