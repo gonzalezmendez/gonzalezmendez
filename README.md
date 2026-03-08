@@ -2,7 +2,7 @@
 ##  I.S.C. _Data Scientist Certified_
 
 <p align="center">
-  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo">
+  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
 </p>
 
 ---
@@ -11,9 +11,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="30%" align="center"><b>Data Preparation (EDA & Wrangling))</b></th>
-      <th width="30%" align="center"><b>Machine Learning</b></th>
-      <th width="30%" align="center"><b>Deep Learning & NLP</b></th>
+      <th width="33%" align="center"><b>Data Preparation (EDA & Wrangling)</b></th>
+      <th width="33%" align="center"><b>Machine Learning</b></th>
+      <th width="33%" align="center"><b>Deep Learning & NLP</b></th>
     </tr>
   </thead>  
   
@@ -27,14 +27,14 @@
       </td>
       
       <td align="center">
-        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/002.png" width="100%">
+        <a href="#">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/002.png?raw=true" width="100%">
         </a>
       </td>
       
       <td align="center">
-        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/003.png" width="100%">
+        <a href="#">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/003.png?raw=true" width="100%">
         </a>
       </td>
       
