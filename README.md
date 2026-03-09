@@ -1,5 +1,15 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
-##  I.S.C. _Data Scientist Certified_
+---
+## 👤 Sobre mí
+
+🏗️ **+8 años de Trayectoria:** Experto en arquitectura y manipulación de datos, transformando estructuras complejas en activos estratégicos.
+
+🔮 **Ciencia de Datos Avanzada:** Especialista en experimentación estadística (Pruebas A/B, Levene, enfoques Bayesianos) y modelos de Machine Learning para la generación de insights.
+
+📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
+
+📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
+---
 
 <p align="center">
   <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
@@ -63,17 +73,6 @@ Neural networks, embeddings, transformers and language models.<br><br>
 </tbody>
 </table>
 
----
-## 👤 Sobre mí
-
-🏗️ **+8 años de Trayectoria:** Experto en arquitectura y manipulación de datos, transformando estructuras complejas en activos estratégicos.
-
-🔮 **Ciencia de Datos Avanzada:** Especialista en experimentación estadística (Pruebas A/B, Levene, enfoques Bayesianos) y modelos de Machine Learning para la generación de insights.
-
-📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
-
-📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
-  
 ---
 ## 🎓 Certificaciones & Especializaciones
 
