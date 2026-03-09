@@ -64,21 +64,15 @@ Neural networks, embeddings, transformers and language models.<br><br>
 </table>
 
 ---
-## Sobre mi
-  
-  🏗️ _Experiencia de mas de 8 años en estructura y manipulación de datos para su estudio e interpretación._
-  
-  📊 _Competencias avanzadas en modelado estadístico, y visualización de datos._
-  
-  🕹️ _Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave._
-  
-  🗣️ _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
-  
-  🔮 _Análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
-  
-  🧠 _Aplicación de machine learning y estadística inferencial para generar insights accionables._
-  
-  🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
+## 👤 Sobre mí
+
+🏗️ **+8 años de Trayectoria:** Experto en arquitectura y manipulación de datos, transformando estructuras complejas en activos estratégicos.
+
+🔮 **Ciencia de Datos Avanzada:** Especialista en experimentación estadística (Pruebas A/B, Levene, enfoques Bayesianos) y modelos de Machine Learning para la generación de insights.
+
+📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
+
+📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
   
 ---
 ## 🎓 Certificaciones & Especializaciones
