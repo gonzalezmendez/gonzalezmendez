@@ -83,13 +83,66 @@ Neural networks, embeddings, transformers and language models.
 ---
 ## Cursos
 
-| **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
-| :---: | :---: | :---: |
-| [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) | [![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)](https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing) | [![Apps de Inteligencia Artificial con C# y Azure](https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_)](https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing) |
-| **TripleTen - 610h** | **códigofacilito - 8h 39m** | **códigofacilito - 2h 54m** |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INTRODUCCION A MACHINE LEARNING** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INGENIERIA DE PROMPTS**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PROFESIONAL DE GIT**|
-| [![Introducción a Machine Learning ](https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P)](https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing) | [![PIngeniería de prompts](https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1)](https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing) | [![Profesional de Git](https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz)](https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing) |
-| **códigofacilito - 4h 9m** | **códigofacilito - 4h 57m** | **códigofacilito - 3h 14m** |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center"><strong>DATA SCIENTIST</strong></th>
+      <th align="center"><strong>PYTHON PROFESIONAL</strong></th>
+      <th align="center"><strong>APPS DE IA CON C# Y AZURE</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing">
+          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Data%20Scientist.png" alt="Data Scientist" width="200">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing">
+          <img src="https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB" alt="Python Profesional" width="200">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing">
+          <img src="https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_" alt="Apps de IA" width="200">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>TripleTen - 610h</b></td>
+      <td align="center"><b>códigofacilito - 8h 39m</b></td>
+      <td align="center"><b>códigofacilito - 2h 54m</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>INTRODUCCIÓN A MACHINE LEARNING</b></td>
+      <td align="center"><b>INGENIERÍA DE PROMPTS</b></td>
+      <td align="center"><b>PROFESIONAL DE GIT</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing">
+          <img src="https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P" alt="ML" width="200">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing">
+          <img src="https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1" alt="Prompts" width="200">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing">
+          <img src="https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz" alt="Git" width="200">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>códigofacilito - 4h 9m</b></td>
+      <td align="center"><b>códigofacilito - 4h 57m</b></td>
+      <td align="center"><b>códigofacilito - 3h 14m</b></td>
+    </tr>
+  </tbody>
+</table>|
 
 ---
 ## Competencias
