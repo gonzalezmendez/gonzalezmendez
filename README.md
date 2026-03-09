@@ -100,12 +100,12 @@ Neural networks, embeddings, transformers and language models.
       </td>
       <td align="center">
         <a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing">
-          <img src="https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB" alt="Python Profesional" width="200">
+          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Python%20Profesional.png" alt="Python Profesional" width="200">
         </a>
       </td>
       <td align="center">
         <a href="https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing">
-          <img src="https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_" alt="Apps de IA" width="200">
+          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Apps%20de%20Inteligencia%20Artificial%20con%20C%23%20y%20Azure.png" alt="Apps de IA" width="200">
         </a>
       </td>
     </tr>
