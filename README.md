@@ -42,7 +42,7 @@ Exploratory analysis, feature cleaning, transformation and data preparation.
 <b>Machine Learning</b>
 
 Modelos supervisados, métricas de evaluación, canalizaciones e ingeniería de características.<br><br>
-Supervised models, evaluation metrics, pipelines and feature engineering.<br><br>
+Supervised models, evaluation metrics, pipelines and feature engineering.
 
 </td>
 
