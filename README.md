@@ -83,66 +83,83 @@ Neural networks, embeddings, transformers and language models.
 ---
 ## Cursos
 
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center"><strong>DATA SCIENTIST</strong></th>
-      <th align="center"><strong>PYTHON PROFESIONAL</strong></th>
-      <th align="center"><strong>APPS DE IA CON C# Y AZURE</strong></th>
-    </tr>
-  </thead>
+<table>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" width="220">
         <a href="https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing">
           <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Data%20Scientist.png" alt="Data Scientist" width="200">
         </a>
       </td>
+      <td>
+        <strong>Data Scientist | TripleTen</strong><br>
+        <strong>Duración:</strong> 610 horas (Programa de especialización profunda).<br>
+        <strong>Enfoque:</strong> Dominio del ciclo de vida completo de la ciencia de datos. Incluye análisis exploratorio de datos (EDA), pruebas de hipótesis, Machine Learning supervisado y no supervisado, y despliegue de modelos.<br>
+        <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing">
           <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Python%20Profesional.png" alt="Python Profesional" width="200">
         </a>
       </td>
+      <td>
+        <strong>Python Profesional | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 8h 39m.<br>
+        <strong>Enfoque:</strong> Profundización en las mejores prácticas del lenguaje, manejo de estructuras de datos complejas, decoradores, generadores y programación orientada a objetos (POO) avanzada para scripts de alta eficiencia.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Ingenier%C3%ADa%20de%20prompts.png?raw=true" alt="Prompts" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Ingeniería de Prompts | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 4h 57m.<br>
+        <strong>Enfoque:</strong> Diseño y optimización de instrucciones para LLMs (Large Language Models). Técnicas de few-shot prompting, chain-of-thought y control de temperatura/top-p para maximizar la precisión en la generación de texto y código.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Introducci%C3%B3n%20a%20Machine%20Learning.png?raw=true" alt="ML" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Introducción a Machine Learning | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 4h 9m.<br>
+        <strong>Enfoque:</strong> Fundamentos de algoritmos predictivos, incluyendo regresiones lineales, árboles de decisión y evaluación de métricas (Precision, Recall, F1-Score) para modelos de clasificación.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Profesional%20de%20Git.png?raw=true" alt="Git" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Git Profesional | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 3h 14m.<br>
+        <strong>Enfoque:</strong> Gestión avanzada de versiones, flujos de trabajo colaborativos (GitFlow), resolución de conflictos, manejo de stashing, rebasing y optimización del historial de commits.
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing">
           <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Apps%20de%20Inteligencia%20Artificial%20con%20C%23%20y%20Azure.png" alt="Apps de IA" width="200">
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center"><b>TripleTen - 610h</b></td>
-      <td align="center"><b>códigofacilito - 8h 39m</b></td>
-      <td align="center"><b>códigofacilito - 2h 54m</b></td>
-    </tr>
-    <tr>
-      <td align="center"><b>INTRODUCCIÓN A MACHINE LEARNING</b></td>
-      <td align="center"><b>INGENIERÍA DE PROMPTS</b></td>
-      <td align="center"><b>PROFESIONAL DE GIT</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Introducci%C3%B3n%20a%20Machine%20Learning.png" alt="ML" width="200">
-        </a>
+      <td>
+        <strong>Desarrollo de Apps de IA con C# y Azure | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 2h 54m.<br>
+        <strong>Enfoque:</strong> Integración de servicios cognitivos de Azure en ecosistemas .NET. Implementación de soluciones de inteligencia artificial utilizando C# para conectar aplicaciones con modelos de visión y lenguaje en la nube.
       </td>
-      <td align="center">
-        <a href="https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Ingenier%C3%ADa%20de%20prompts.png" alt="Prompts" width="200">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Profesional%20de%20Git.png" alt="Git" width="200">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>códigofacilito - 4h 9m</b></td>
-      <td align="center"><b>códigofacilito - 4h 57m</b></td>
-      <td align="center"><b>códigofacilito - 3h 14m</b></td>
     </tr>
   </tbody>
-</table>|
+</table>
 
 ---
 ## Competencias
