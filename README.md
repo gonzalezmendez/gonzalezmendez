@@ -1,6 +1,5 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
 
----
 ## 👤 Sobre mí
 
 🏗️ **+8 años de Trayectoria:** Experto en arquitectura y manipulación de datos, transformando estructuras complejas en activos estratégicos.
