@@ -158,9 +158,13 @@ Neural networks, embeddings, transformers and language models.<br><br>
 ## 🧠 Competencias & Core Skills
 
 **Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
+
 **Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
+
 **Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
+
 **Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
+
 **Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
 
 ---
