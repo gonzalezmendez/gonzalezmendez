@@ -1,4 +1,6 @@
-# [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
+<p align="center">
+  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
+</p>
 
 ## 👤 Sobre mí
 
@@ -10,12 +12,6 @@
 
 📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
 
-
-<p align="center">
-  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
-</p>
-
----
 ## Proyectos
 
 <table width="100%">
@@ -73,6 +69,18 @@ Neural networks, embeddings, transformers and language models.<br><br>
 </tbody>
 </table>
 
+---
+## 🧠 Competencias & Core Skills
+
+**Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
+
+**Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
+
+**Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
+
+**Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
+
+**Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
 ---
 ## 🎓 Certificaciones & Especializaciones
 
@@ -153,19 +161,6 @@ Neural networks, embeddings, transformers and language models.<br><br>
     </tr>
   </tbody>
 </table>
-
----
-## 🧠 Competencias & Core Skills
-
-**Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
-
-**Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
-
-**Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
-
-**Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
-
-**Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
 
 ---
 ## 🌐 Connect with System
