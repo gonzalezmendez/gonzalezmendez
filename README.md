@@ -66,7 +66,7 @@ Neural networks, embeddings, transformers and language models.<br><br>
 ---
 ## Sobre mi
   
-  🏗️ _Experiencia de mas de 5 años en estructura y manipulación de datos para su estudio e interpretación._
+  🏗️ _Experiencia de mas de 8 años en estructura y manipulación de datos para su estudio e interpretación._
   
   📊 _Competencias avanzadas en modelado estadístico, y visualización de datos._
   
@@ -74,14 +74,14 @@ Neural networks, embeddings, transformers and language models.<br><br>
   
   🗣️ _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
   
-  🔮 _Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
+  🔮 _Análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
   
   🧠 _Aplicación de machine learning y estadística inferencial para generar insights accionables._
   
   🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
   
 ---
-## Cursos
+## 🎓 Certificaciones & Especializaciones
 
 <table>
   <tbody>
@@ -162,19 +162,13 @@ Neural networks, embeddings, transformers and language models.<br><br>
 </table>
 
 ---
-## Competencias
+## 🧠 Competencias & Core Skills
 
-🧐 _Razonamiento crítico y analítico._
-
-💬 _Comunicación efectiva con equipos interdisciplinarios._
-
-🎯 _Toma de decisiones basada en análisis de datos._
-
-📌 _Organización y atención al detalle._
-
-🧩 _Resolución de problemas complejos._
-
-🌐 _Trabajo colaborativo en entornos digitales._
+### Pensamiento Analítico: Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
+### Comunicación Técnica: Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
+### Resolución de Problemas: Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
+### Atención al Detalle: Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
+### Colaboración Digital: Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
 
 ---
 ## Contacto:
