@@ -179,4 +179,4 @@ Neural networks, embeddings, transformers and language models.<br><br>
 | **Email** | [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
 | **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
 
-`Saludos desde el sofá`
+` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `
