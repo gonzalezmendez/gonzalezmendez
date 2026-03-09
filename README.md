@@ -12,6 +12,7 @@
 
 📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
 
+
 ## 🚀 Featured Projects
 
 <table width="100%">
