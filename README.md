@@ -122,17 +122,17 @@ Neural networks, embeddings, transformers and language models.
     <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing">
-          <img src="https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P" alt="ML" width="200">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Introducci%C3%B3n%20a%20Machine%20Learning.png" alt="ML" width="200">
         </a>
       </td>
       <td align="center">
         <a href="https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing">
-          <img src="https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1" alt="Prompts" width="200">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Ingenier%C3%ADa%20de%20prompts.png" alt="Prompts" width="200">
         </a>
       </td>
       <td align="center">
         <a href="https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing">
-          <img src="https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz" alt="Git" width="200">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Profesional%20de%20Git.png" alt="Git" width="200">
         </a>
       </td>
     </tr>
