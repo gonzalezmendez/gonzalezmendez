@@ -175,8 +175,8 @@ Neural networks, embeddings, transformers and language models.<br><br>
 
 | Channel | Endpoint |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
 | **Email** | [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
 | **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
 
-`Last Login: Sun Mar 08 2026 from 127.0.0.1`
+`Saludos desde el sofá`
