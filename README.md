@@ -124,6 +124,21 @@ Neural networks, embeddings, transformers and language models.<br><br>
         <strong>Enfoque:</strong> Diseño y optimización de instrucciones para LLMs (Large Language Models). Técnicas de few-shot prompting, chain-of-thought y control de temperatura/top-p para maximizar la precisión en la generación de texto y código.
       </td>
     </tr>
+   <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/DESARROLLOIA.png" alt="desarrollo_ia" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Iniciacion al Desarrollo con IA: de 0 a Produccion | BIG School </strong><br>
+        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
+        <strong>Enfoque:</strong> Implementación de flujos de trabajo de IA para el desarrollo full-stack, centrado en "Vibe Coding" y despliegue rápido de MVPs..<br>
+        <strong>Herramientas:</strong> Base44, Claude 3.5, Bolt.new, Make, React, Vercel.
+        <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
+      </td>
+    </tr>    
+   
     <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing">
@@ -160,20 +175,6 @@ Neural networks, embeddings, transformers and language models.<br><br>
         <strong>Enfoque:</strong> Integración de servicios cognitivos de Azure en ecosistemas .NET. Implementación de soluciones de inteligencia artificial utilizando C# para conectar aplicaciones con modelos de visión y lenguaje en la nube.
       </td>
     </tr>
- <tr>
-      <td align="center" width="220">
-        <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/DESARROLLOIA.png" alt="desarrollo_ia" width="200">
-        </a>
-      </td>
-      <td>
-        <strong>Iniciacion al Desarrollo con IA: de 0 a Produccion | BIGschool </strong><br>
-        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
-        <strong>Enfoque:</strong> Implementación de flujos de trabajo de IA para el desarrollo full-stack, centrado en "Vibe Coding" y despliegue rápido de MVPs..<br>
-        <strong>Herramientas:</strong> Base44, Claude 3.5, Bolt.new, Make, React, Vercel.
-        <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
-      </td>
-    </tr>    
   </tbody>
 </table>
 
