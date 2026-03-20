@@ -74,7 +74,7 @@ Neural networks, embeddings, transformers and language models.
 <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/004.png" width="100%">
 </a>
 
-<b>Business Intelligence"</b>
+<b>Business Intelligence</b>
 
 Dashboard interactivo con métricas clave, storytelling de datos y optimización de procesos.<br><br>
 Interactive dashboard with key metrics, data storytelling, and process optimization.
