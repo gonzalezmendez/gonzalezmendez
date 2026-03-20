@@ -67,6 +67,32 @@ Neural networks, embeddings, transformers and language models.<br><br>
 </td>
 
 </tr>
+
+<tr>
+<td align="center">
+
+<a href="URL_DE_TU_REPO_POWERBI">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/pbi_project.gif" width="100%">
+</a>
+
+<b>Business Intelligence</b>
+
+Dashboard interactivo con métricas clave, storytelling de datos y optimización de procesos.<br><br>
+Interactive dashboard with key metrics, data storytelling, and process optimization.
+
+</td>
+
+<td align="center" colspan="2">
+<br>
+<a href="URL_A_TU_REPORTE_NOVYPRO">
+  <img src="https://img.shields.io/badge/Ver_Reporte_Interactivo-Explorar-blue?style=for-the-badge&logo=powerbi&logoColor=white" alt="NovyPro">
+</a>
+<br><br>
+<b>Data Storytelling & Insights</b><br>
+Implementación de lógica DAX avanzada y modelado estelar para la toma de decisiones estratégicas.
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -173,33 +199,7 @@ Neural networks, embeddings, transformers and language models.<br><br>
         <strong>Duración:</strong> 2h 54m.<br>
         <strong>Enfoque:</strong> Integración de servicios cognitivos de Azure en ecosistemas .NET. Implementación de soluciones de inteligencia artificial utilizando C# para conectar aplicaciones con modelos de visión y lenguaje en la nube.
       </td>
-    </tr>
-
-<tr>
-<td align="center">
-
-<a href="URL_DE_TU_REPO_POWERBI">
-<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/pbi_project.gif" width="100%">
-</a>
-
-<b>Business Intelligence</b>
-
-Dashboard interactivo con métricas clave, storytelling de datos y optimización de procesos.<br><br>
-Interactive dashboard with key metrics, data storytelling, and process optimization.
-
-</td>
-
-<td align="center" colspan="2">
-<br>
-<a href="URL_A_TU_REPORTE_NOVYPRO">
-  <img src="https://img.shields.io/badge/Ver_Reporte_Interactivo-Explorar-blue?style=for-the-badge&logo=powerbi&logoColor=white" alt="NovyPro">
-</a>
-<br><br>
-<b>Data Storytelling & Insights</b><br>
-Implementación de lógica DAX avanzada y modelado estelar para la toma de decisiones estratégicas.
-</td>
-</tr>
-    
+    </tr>    
   </tbody>
 </table>
 
