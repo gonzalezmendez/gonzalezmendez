@@ -63,7 +63,7 @@ Supervised models, evaluation metrics, pipelines and feature engineering.
 <b>Deep Learning & NLP</b>
 
 Redes neuronales, embeddings, transformadores y modelos de lenguaje.<br><br>
-Neural networks, embeddings, transformers and language models.<br><br>
+Neural networks, embeddings, transformers and language models.<br><br><br>
 
 </td>
 
