@@ -123,7 +123,7 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
         </a>
       </td>
       <td>
-        <strong>Power BI – Curso Intensivo| DAXUS </strong><br>
+        <strong>Power BI + IA – Curso Intensivo| DAXUS </strong><br>
         <strong>Duración:</strong> 8 horas (Jornadas formativas).<br>
         <strong>Enfoque:</strong> Aplicación práctica de Business Intelligence con Power BI, flujo completo de análisis de datos, desde la preparación hasta la generación de insights accionables mediante dashboards interactivos.<br>
         <strong>Stack:</strong> Power BI Desktop - Power Query - DAX (Data Analysis Expressions)<br>
