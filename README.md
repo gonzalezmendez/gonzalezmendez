@@ -111,9 +111,38 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
       </td>
       <td>
         <strong>Data Scientist | TripleTen</strong><br>
-        <strong>Duración:</strong> 610 horas (Programa de especialización profunda).<br>
+        <strong>Duración:</strong> 610 horas.<br>
         <strong>Enfoque:</strong> Dominio del ciclo de vida completo de la ciencia de datos. Incluye análisis exploratorio de datos (EDA), pruebas de hipótesis, Machine Learning supervisado y no supervisado, y despliegue de modelos.<br>
         <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
+      </td>
+    </tr>
+        <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1ypmfj7tydUf5S_ujYkBVR4zPJbT6EsIq/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/powerbi.png?raw=true" alt="power bi" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Power BI – Curso Intensivo| DAXUS </strong><br>
+        <strong>Duración:</strong> 8 horas (Jornadas formativas).<br>
+        <strong>Enfoque:</strong> Aplicación práctica de Business Intelligence con Power BI, refleja un flujo completo de análisis de datos, desde la preparación hasta la generación de insights accionables mediante dashboards interactivos.<br>
+        <strong>Stack:</strong> Power BI Desktop - Power Query (M Language) -DAX (Data Analysis Expressions)<br>
+        <strong>Herramientas:</strong> ETL con Power Query - Modelado de datos - Creación de medidas y columnas calculadas en DAX - Visualizaciones interactivas - Segmentación de datos - Publicación y compartición de reportes<br>
+        <strong>Habilidades:</strong> Limpieza y transformación de datos (Data Wrangling) - Pensamiento analítico orientado a negocio - Modelado de datos para eficiencia y escalabilidad - Dominio básico–intermedio de DAX - Diseño de dashboards efectivos (storytelling con datos) - Identificación de insights clave para la toma de decisiones
+      </td>
+    </tr>
+        <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/DESARROLLOIA.png?raw=true" alt="desarrollo_ia" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Iniciación al Desarrollo con IA: de 0 a Producción | BIG School </strong><br>
+        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
+        <strong>Enfoque:</strong> Implementación de flujos de trabajo de IA para el desarrollo full-stack, centrado en "Vibe Coding" y despliegue rápido de MVPs.<br>
+        <strong>Herramientas:</strong> Base44, Claude 3.5, Bolt.new, Make, React, Vercel.<br>
+        <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
       </td>
     </tr>
     <tr>
@@ -138,20 +167,6 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
         <strong>Ingeniería de Prompts | CódigoFacilito</strong><br>
         <strong>Duración:</strong> 4h 57m.<br>
         <strong>Enfoque:</strong> Diseño y optimización de instrucciones para LLMs (Large Language Models). Técnicas de few-shot prompting, chain-of-thought y control de temperatura/top-p para maximizar la precisión en la generación de texto y código.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="220">
-        <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/DESARROLLOIA.png?raw=true" alt="desarrollo_ia" width="200">
-        </a>
-      </td>
-      <td>
-        <strong>Iniciación al Desarrollo con IA: de 0 a Producción | BIG School </strong><br>
-        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
-        <strong>Enfoque:</strong> Implementación de flujos de trabajo de IA para el desarrollo full-stack, centrado en "Vibe Coding" y despliegue rápido de MVPs.<br>
-        <strong>Herramientas:</strong> Base44, Claude 3.5, Bolt.new, Make, React, Vercel.<br>
-        <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
       </td>
     </tr>
     <tr>
