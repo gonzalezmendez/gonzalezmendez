@@ -118,18 +118,17 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
     </tr>
         <tr>
       <td align="center" width="220">
-        <a href="https://drive.google.com/file/d/1ypmfj7tydUf5S_ujYkBVR4zPJbT6EsIq/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1LL0W5ZIy4p7Yur4_Wy5NokQpptlNg8Cr/view?usp=sharing">
           <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/powerbi.png?raw=true" alt="power bi" width="200">
         </a>
       </td>
       <td>
         <strong>Power BI – Curso Intensivo| DAXUS </strong><br>
         <strong>Duración:</strong> 8 horas (Jornadas formativas).<br>
-        <strong>Enfoque:</strong> Aplicación práctica de Business Intelligence con Power BI, refleja un flujo completo de análisis de datos, desde la preparación hasta la generación de insights accionables mediante dashboards interactivos.<br>
-        <strong>Stack:</strong> Power BI Desktop - Power Query (M Language) -DAX (Data Analysis Expressions)<br>
+        <strong>Enfoque:</strong> Aplicación práctica de Business Intelligence con Power BI, flujo completo de análisis de datos, desde la preparación hasta la generación de insights accionables mediante dashboards interactivos.<br>
+        <strong>Stack:</strong> Power BI Desktop - Power Query - DAX (Data Analysis Expressions)<br>
         <strong>Herramientas:</strong> ETL con Power Query - Modelado de datos - Creación de medidas y columnas calculadas en DAX - Visualizaciones interactivas - Segmentación de datos - Publicación y compartición de reportes<br>
-        <strong>Habilidades:</strong> Limpieza y transformación de datos (Data Wrangling) - Pensamiento analítico orientado a negocio - Modelado de datos para eficiencia y escalabilidad - Dominio básico–intermedio de DAX - Diseño de dashboards efectivos (storytelling con datos) - Identificación de insights clave para la toma de decisiones
-      </td>
+        <strong>Habilidades:</strong> Data Wrangling - Pensamiento analítico - Modelado de datos - DAX - Storytelling - Identificación de insights</td>
     </tr>
         <tr>
       <td align="center" width="220">
