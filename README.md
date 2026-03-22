@@ -11,7 +11,7 @@
 <td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
 
 <h3>🌐 Connect with System</h3>
-
+<table>
   <tr>
     <td><strong>LinkedIn</strong></td>
     <td>
@@ -47,7 +47,7 @@
       </a>
     </td>
   </tr>
-
+</table>
 </td>
 </tr>
 </table>
