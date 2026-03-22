@@ -3,7 +3,7 @@
  <tr>
   <td align="center" valign="middle" width="70%" style="padding: 10px; border: 1px solid #ccc;">
     <a href="#" target="_blank">
-      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo"
+      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo"
            alt="Fondo" 
            style="max-width: 100%; height: auto; display: block;">
     </a>
