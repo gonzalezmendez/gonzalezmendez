@@ -51,18 +51,6 @@
 </table>
 
 </td>
-  <tr>
-    <td><strong>Página</strong></td>
-    <td>
-      <a href="https://gonzalezmendez.github.io">
-        <img src="https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-</td>
-
-</td>
 </tr>
 </table>
 
