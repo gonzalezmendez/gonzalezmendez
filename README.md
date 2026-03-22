@@ -15,8 +15,7 @@
 
 <h3>🌐 Connect with System</h3>
 
-<table>
-  <tr>
+ <tr>
     <td><strong>LinkedIn</strong></td>
     <td>
       <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
@@ -51,7 +50,6 @@
       </a>
     </td>
   </tr>
-</table>
 
 </td>
 
