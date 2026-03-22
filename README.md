@@ -8,13 +8,39 @@
            style="max-width: 100%; height: auto; display: block;">
     </a>
   </td>
-    <td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
-     <H3> 🌐 Connect with System <br>
-      <H4>LinkedIn [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) <br>
-      **Email** [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
-     | **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
-     | **Pagina** | [![Pagina](https://img.shields.io/badge/-HTTP://WWW...-4285F4?style=flat-square&logo=google-chrome&logoColor=white")](https://gonzalezmendez.github.io) |
-  </td>
+  <td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
+
+<h3>🌐 Connect with System</h3>
+
+<p>
+<strong>LinkedIn</strong><br>
+<a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
+  <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+<p>
+<strong>Email</strong><br>
+<a href="mailto:alfredo.gm.data@gmail.com">
+  <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+</a>
+</p>
+
+<p>
+<strong>YouTube</strong><br>
+<a href="https://youtube.com/@DatAGM">
+  <img src="https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white">
+</a>
+</p>
+
+<p>
+<strong>Página</strong><br>
+<a href="https://gonzalezmendez.github.io">
+  <img src="https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+</a>
+</p>
+
+</td>
 </tr>
 </table>
 
