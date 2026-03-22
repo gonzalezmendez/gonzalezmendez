@@ -8,14 +8,12 @@
            style="max-width: 100%; height: auto; display: block;">
     </a>
   </td>
-
-  <td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
-
 <td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
 
 <h3>🌐 Connect with System</h3>
 
- <tr>
+<table>
+  <tr>
     <td><strong>LinkedIn</strong></td>
     <td>
       <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
@@ -42,6 +40,17 @@
     </td>
   </tr>
 
+  <tr>
+    <td><strong>Página</strong></td>
+    <td>
+      <a href="https://gonzalezmendez.github.io">
+        <img src="https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</td>
   <tr>
     <td><strong>Página</strong></td>
     <td>
