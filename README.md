@@ -1,6 +1,25 @@
-<p align="center">
-  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
-</p>
+<table width="100%">
+  <tr>
+    <!-- 70% Imagen -->
+    <td width="70%" align="center">
+      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo">
+    </td>
+
+    <!-- 30% Contacto -->
+    <td width="30%" align="left">
+
+## 🌐 Connect with System
+
+| Channel | Endpoint |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
+| **Email** | [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
+| **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
+| **Pagina** | [![Pagina](https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://gonzalezmendez.github.io) |
+
+    </td>
+  </tr>
+</table>
 
 ## 👤 Sobre mí
 
@@ -206,12 +225,3 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
     </tr>    
   </tbody>
 </table>
-
-## 🌐 Connect with System
-
-| Channel | Endpoint |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
-| **Email** | [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
-| **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
-| **Pagina** | [![Pagina](https://img.shields.io/badge/-HTTP://WWW...-4285F4?style=flat-square&logo=google-chrome&logoColor=white")](https://gonzalezmendez.github.io) |
