@@ -8,37 +8,52 @@
            style="max-width: 100%; height: auto; display: block;">
     </a>
   </td>
+
   <td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
+
+<td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
 
 <h3>🌐 Connect with System</h3>
 
-<p>
-<strong>LinkedIn</strong><br>
-<a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
-  <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-</p>
+<table>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
+        <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+  </tr>
 
-<p>
-<strong>Email</strong><br>
-<a href="mailto:alfredo.gm.data@gmail.com">
-  <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
-</a>
-</p>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td>
+      <a href="mailto:alfredo.gm.data@gmail.com">
+        <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
 
-<p>
-<strong>YouTube</strong><br>
-<a href="https://youtube.com/@DatAGM">
-  <img src="https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white">
-</a>
-</p>
+  <tr>
+    <td><strong>YouTube</strong></td>
+    <td>
+      <a href="https://youtube.com/@DatAGM">
+        <img src="https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white">
+      </a>
+    </td>
+  </tr>
 
-<p>
-<strong>Página</strong><br>
-<a href="https://gonzalezmendez.github.io">
-  <img src="https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
-</a>
-</p>
+  <tr>
+    <td><strong>Página</strong></td>
+    <td>
+      <a href="https://gonzalezmendez.github.io">
+        <img src="https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</td>
 
 </td>
 </tr>
