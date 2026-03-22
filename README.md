@@ -1,14 +1,14 @@
 <table style="width: 100%; border-collapse: collapse;">
  
  <tr>
-  <td align="center" valign="middle" width="70%" style="padding: 10px; border: 1px solid #ccc;">
+  <td align="center" valign="middle" width="80%" style="padding: 10px; border: 1px solid #ccc;">
     <a href="#" target="_blank">
       <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo"
            alt="Fondo" 
            style="max-width: 100%; height: auto; display: block;">
     </a>
   </td>
-<td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
+<td align="left" valign="top" width="20%" style="padding: 20px; border: 1px solid #ccc;">
 
 <h3>🌐 Connect with System</h3>
 <table>
