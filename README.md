@@ -15,6 +15,7 @@
       <h3>contenido
   </td>
 </tr>
+</table>
 
 ## 👤 Sobre mí
 
