@@ -12,7 +12,6 @@
 
 <h3>🌐 Connect with System</h3>
 
-<table>
   <tr>
     <td><strong>LinkedIn</strong></td>
     <td>
@@ -48,7 +47,6 @@
       </a>
     </td>
   </tr>
-</table>
 
 </td>
 </tr>
