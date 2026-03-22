@@ -9,7 +9,7 @@
     </a>
   </td>
     <td align="left" valign="top" width="30%" style="padding: 20px; border: 1px solid #ccc;">
-     ## 🌐 Connect with System
+     <H3> 🌐 Connect with System <br>
      | Channel | Endpoint |
      | :--- | :--- |
      | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
