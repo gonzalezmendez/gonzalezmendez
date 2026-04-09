@@ -61,6 +61,7 @@
 📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
 
 📺 **Portafolio en video [A:\G\M]:** Explico y documento proyectos reales de Data Science (EDA, ML, LLMs), conectando teoría, código y resultados aplicados.
+[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://youtube.com/@DatAGM)
 
 
 ## 🚀 Featured Projects
