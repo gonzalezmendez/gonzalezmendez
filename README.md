@@ -60,7 +60,7 @@
 
 📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
 
-📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
+📺 **Portafolio en video [A:\G\M]:** Explico y documento proyectos reales de Data Science (EDA, ML, LLMs), conectando teoría, código y resultados aplicados.
 
 
 ## 🚀 Featured Projects
