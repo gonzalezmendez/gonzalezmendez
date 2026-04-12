@@ -1,38 +1,70 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
 ##  I.S.C. _Data Scientist Certified_
 ---
-## Sobre mi
-  
-  🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
-  
-  📊 _Competencias avanzadas en modelado estadístico, y visualización de datos._
-  
-  🕹️ _Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave._
-  
-  🗣️ _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
-  
-  🔮 _Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
-  
-  🧠 _Aplicación de machine learning y estadística inferencial para generar insights accionables._
-  
-  🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
+## 👤 Sobre mí
+
+🏗️ **+8 años de Trayectoria:** Experto en arquitectura y manipulación de datos, transformando estructuras complejas en activos estratégicos.
+
+🔮 **Ciencia de Datos Avanzada:** Especialista en experimentación estadística (Pruebas A/B, Levene, enfoques Bayesianos) y modelos de Machine Learning para la generación de insights.
+
+📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
+
+📺 **Portafolio en video [A:\G\M]:** Explico y documento proyectos reales de Data Science (EDA, ML, LLMs), conectando teoría, código y resultados aplicados.
+
   
 ---
-## Competencias
+## 🧠 Competencias & Core Skills
 
-🧐 _Razonamiento crítico y analítico._
+**Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
 
-💬 _Comunicación efectiva con equipos interdisciplinarios._
+**Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
 
-🎯 _Toma de decisiones basada en análisis de datos._
+**Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
 
-📌 _Organización y atención al detalle._
+**Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
 
-🧩 _Resolución de problemas complejos._
+**Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
 
-🌐 _Trabajo colaborativo en entornos digitales._
 
 ---
-## Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com)
+<h3>🌐 Connect with System</h3>
+<table>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
+        <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Email</strong></td>
+    <td>
+      <a href="mailto:alfredo.gm.data@gmail.com">
+        <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>YouTube</strong></td>
+    <td>
+      <a href="https://youtube.com/@DatAGM">
+        <img src="https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Página</strong></td>
+    <td>
+      <a href="https://gonzalezmendez.lovable.app/">
+        <img src="https://img.shields.io/badge/-gonzalezmendez.lovable.app-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
