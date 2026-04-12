@@ -166,6 +166,7 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
         <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
       </td>
     </tr>
+   
         <tr>
       <td align="center" width="220">
         <a href="https://drive.google.com/file/d/1LL0W5ZIy4p7Yur4_Wy5NokQpptlNg8Cr/view?usp=sharing">
@@ -180,6 +181,21 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
         <strong>Herramientas:</strong> ETL con Power Query - Modelado de datos - Creación de medidas y columnas calculadas en DAX - Visualizaciones interactivas - Segmentación de datos - Publicación y compartición de reportes<br>
         <strong>Habilidades:</strong> Data Wrangling - Pensamiento analítico - Modelado de datos - DAX - Storytelling - Identificación de insights</td>
     </tr>
+
+        <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1Bnn4VmQBd1HAAGGjgjPCV141f1rWpzU_/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Ciberseguridad.png?raw=true" alt="Ciberseguridad" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Ciberseguridad & Hacking Etico | BIG School </strong><br>
+        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
+        <strong>Enfoque:</strong> Formación práctica en ciberseguridad ofensiva orientada al pentesting. Incluye reconocimiento (OSINT), escaneo y enumeración de vulnerabilidades, explotación controlada, post-explotación y reporte bajo estándares como OWASP Top 10.<br>
+        <strong>Stack:</strong> Kali Linux, Nmap, Metasploit, Burp Suite, SQLmap, Wireshark, OWASP ZAP, Bash, Python, Hashcat, Hydra, Netcat.<br>
+      </td>
+    </tr>
+    
         <tr>
       <td align="center" width="220">
         <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
@@ -194,6 +210,7 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
         <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
       </td>
     </tr>
+    
     <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing">
