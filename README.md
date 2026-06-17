@@ -153,17 +153,31 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
 </tbody>
 </table>
 
-## 🧠 Competencias & Core Skills
+## 🧠 Competencias Clave
 
-**Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
+📐 **Rigor Estadístico Aplicado**
+   Pruebas A/B, test de Levene, enfoques Bayesianos y validación
+   de hipótesis de negocio — no solo modelos, sino conclusiones confiables.
 
-**Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
+🔁 **Ciclo de Datos End-to-End**
+   Desde ingesta y EDA hasta modelado, evaluación y despliegue.
+   Ownership completo sin depender de equipos fragmentados.
 
-**Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
+🗣️ **Comunicación Técnica con Impacto**
+   Traduzco métricas y modelos en dashboards ejecutivos y narrativas
+   accionables para perfiles no técnicos (Power BI, Tableau, storytelling).
 
-**Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
+🤖 **IA Generativa On-Premise**
+   Diseño pipelines RAG e implemento LLMs localmente —
+   resultados de IA sin exponer datos sensibles a la nube.
 
-**Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
+⚙️ **Automatización & Calidad de Datos**
+   Ingeniería de Prompts + Git + control de versiones para flujos
+   analíticos reproducibles y limpios desde la primera iteración.
+
+📺 **Divulgación Técnica**
+   Comunidad activa en YouTube (@DatAGM): proyecto real → código →
+   resultado explicado. Soft skill difícil de falar: enseñar bien lo que haces.
 
 
 ## 🎓 Certificaciones & Especializaciones
