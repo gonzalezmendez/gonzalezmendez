@@ -69,19 +69,19 @@
 
 ## 👤 Sobre mí
 
-# 🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML
+#### 🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML
    — Transformo datos complejos en decisiones estratégicas accionables.
 
-# 🤖 IA Aplicada & LLMs: Pipelines RAG con LangChain + DeepSeek local,
+#### 🤖 IA Aplicada & LLMs: Pipelines RAG con LangChain + DeepSeek local,
    Ingeniería de Prompts y despliegue on-premise sin dependencia de cloud.
 
-# 🔮 ML & Estadística Avanzada: XGBoost, modelado predictivo, pruebas A/B,
+#### 🔮 ML & Estadística Avanzada: XGBoost, modelado predictivo, pruebas A/B,
    enfoques Bayesianos y NLP en español.
 
-# 📊 Visualización de Alto Impacto: Dashboards ejecutivos en Power BI y Tableau
+#### 📊 Visualización de Alto Impacto: Dashboards ejecutivos en Power BI y Tableau
    conectados a modelos de datos normalizados.
 
-# 📺 @DatAGM en YouTube: Proyectos reales de EDA, ML y LLMs documentados
+#### 📺 @DatAGM en YouTube: Proyectos reales de EDA, ML y LLMs documentados
    de extremo a extremo — teoría, código y resultados aplicados.
 
 
