@@ -53,7 +53,7 @@
     <td><strong>CV</strong></td>
     <td>
       <a href="https://drive.google.com/file/d/1Evv1bZVzJuKBxHDHkjQ1z0GWT7Xc51XC/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/-Curriculum ESP-0077B5?style=flat-square&logo=drive&logoColor=green">
+<img src="https://img.shields.io/badge/Curriculum%20ESP-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
       </a>
     </td>
   </tr>
