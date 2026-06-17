@@ -155,29 +155,23 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
 
 ## 🧠 Competencias Clave
 
-📐 **Rigor Estadístico Aplicado**
-   Pruebas A/B, test de Levene, enfoques Bayesianos y validación
-   de hipótesis de negocio — no solo modelos, sino conclusiones confiables.
+📐 **Rigor Estadístico Aplicado**<br>
+   Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio
 
-🔁 **Ciclo de Datos End-to-End**
+🔁 **Ciclo de Datos End-to-End**<br>
    Desde ingesta y EDA hasta modelado, evaluación y despliegue.
-   Ownership completo sin depender de equipos fragmentados.
 
-🗣️ **Comunicación Técnica con Impacto**
-   Traduzco métricas y modelos en dashboards ejecutivos y narrativas
-   accionables para perfiles no técnicos (Power BI, Tableau, storytelling).
+🗣️ **Comunicación Técnica con Impacto**<br>
+   Traduzco métricas y modelos en dashboards ejecutivos y narrativas accionables para perfiles no técnicos (Power BI, Tableau, storytelling).
 
-🤖 **IA Generativa On-Premise**
-   Diseño pipelines RAG e implemento LLMs localmente —
-   resultados de IA sin exponer datos sensibles a la nube.
+🤖 **IA Generativa On-Premise**<br>
+   Diseño pipelines RAG e implemento LLMs localmente — resultados de IA sin exponer datos sensibles a la nube.
 
-⚙️ **Automatización & Calidad de Datos**
-   Ingeniería de Prompts + Git + control de versiones para flujos
-   analíticos reproducibles y limpios desde la primera iteración.
+⚙️ **Automatización & Calidad de Datos**<br>
+   Ingeniería de Prompts + Git + control de versiones para flujos analíticos reproducibles y limpios.
 
-📺 **Divulgación Técnica**
-   Comunidad activa en YouTube (@DatAGM): proyecto real → código →
-   resultado explicado. Soft skill difícil de falar: enseñar bien lo que haces.
+📺 **Divulgación Técnica**<br>
+   Comunidad activa en YouTube (@DatAGM): proyecto real → código → resultado explicado.
 
 
 ## 🎓 Certificaciones & Especializaciones
