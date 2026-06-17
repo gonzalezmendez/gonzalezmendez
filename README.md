@@ -69,13 +69,20 @@
 
 ## 👤 Sobre mí
 
-🏗️ **+8 años de Trayectoria:** Experto en arquitectura y manipulación de datos, transformando estructuras complejas en activos estratégicos.
+# 🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML
+   — Transformo datos complejos en decisiones estratégicas accionables.
 
-🔮 **Ciencia de Datos Avanzada:** Especialista en experimentación estadística (Pruebas A/B, Levene, enfoques Bayesianos) y modelos de Machine Learning para la generación de insights.
+# 🤖 IA Aplicada & LLMs: Pipelines RAG con LangChain + DeepSeek local,
+   Ingeniería de Prompts y despliegue on-premise sin dependencia de cloud.
 
-📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
+# 🔮 ML & Estadística Avanzada: XGBoost, modelado predictivo, pruebas A/B,
+   enfoques Bayesianos y NLP en español.
 
-📺 **Portafolio en video [A:\G\M]:** Explico y documento proyectos reales de Data Science (EDA, ML, LLMs), conectando teoría, código y resultados aplicados.
+# 📊 Visualización de Alto Impacto: Dashboards ejecutivos en Power BI y Tableau
+   conectados a modelos de datos normalizados.
+
+# 📺 @DatAGM en YouTube: Proyectos reales de EDA, ML y LLMs documentados
+   de extremo a extremo — teoría, código y resultados aplicados.
 
 
 ## 🚀 Featured Projects
