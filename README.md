@@ -12,6 +12,7 @@
 
 <h3>🌐 Connect with System</h3>
 <table>
+ 
   <tr>
     <td><strong>LinkedIn</strong></td>
     <td>
@@ -47,6 +48,16 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td><strong>CV</strong></td>
+    <td>
+      <a href="https://drive.google.com/file/d/1Evv1bZVzJuKBxHDHkjQ1z0GWT7Xc51XC/view?usp=drive_link">
+        <img src="https://img.shields.io/badge/-Curriculum ESP-0077B5?style=flat-square&logo=drive&logoColor=green">
+      </a>
+    </td>
+  </tr>
+  
 </table>
 </td>
 </tr>
