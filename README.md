@@ -5,6 +5,18 @@
 alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; border: 1px solid black;">Celda 1</td>
+    <td style="width: 50%; border: 1px solid black;">Celda 2</td>
+  </tr>
+  <tr>
+    <td style="width: 50%; border: 1px solid black;">Celda 3</td>
+    <td style="width: 50%; border: 1px solid black;">Celda 4</td>
+  </tr>
+</table>
+
+
 <table border="1">
   <tr>
     <td><H3> 👤 Sobre mí</td>
