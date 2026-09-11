@@ -1,15 +1,35 @@
 <table style="width: 100%; border-collapse: collapse;">
 
- <tr>
-  <td align="center" valign="middle" width="100%" style="padding: 10px; border: 1px solid #ccc;">
+
     <a href="#" target="_blank">
       <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo"
            alt="Fondo" 
            style="max-width: 100%; height: auto; display: block;">
     </a>
-  </td> 
- </tr>
-  
+
+
+<td align="left" valign="top" width="20%" style="padding: 20px; border: 1px solid #ccc;">
+
+<h3>🌐 Connect with System</h3>
+<table>
+ 
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
+        <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Email</strong></td>
+    <td>
+      <a href="mailto:alfredo.gm.data@gmail.com">
+        <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
  
   <tr>
     <td><strong>YouTube</strong></td>
