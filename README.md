@@ -49,7 +49,14 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
         </a>
       </td>
       <td>
-        <strong>describir
+        <strong>El conjunto de datos IMDB Top 1000 presenta un reto clásico de datos denormalizados: la variable categórica Genre contiene combinaciones que representan etiquetas múltiples por registro. Realizar agrupaciones directas o consultas simples sobre esta columna genera la pérdida de granularidad o la duplicación errónea de métricas financieras como Gross al desglosar filas.
+El problema técnico a resolver consiste en diseñar e implementar un pipeline de transformación y vectorización de datos (mediante One-Hot Encoding / dummificación) que permita desacoplar los géneros concurrentes. Esto habilitará un análisis exploratorio multivariable libre de sesgos para cuantificar la relación no lineal entre la apreciación del público (Rating) y la monetización en taquilla (Revenue).
+
+          import pandas as pd
+import numpy as np
+
+import seaborn as sns
+import matplotlib.pyplot as plt
       </td>
     </tr>
   </tbody>
