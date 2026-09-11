@@ -10,6 +10,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     <td><H3> 👤 Sobre mí</td>
     <td><H3> 🧠 Competencias Clave</td>
   </tr>
+      
   <tr>
     <td>
       🏗️ **+9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML**  <br> Transformo datos complejos en decisiones estratégicas accionables.
@@ -19,10 +20,10 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 🔮 **ML & Estadística Avanzada:** <br>XGBoost, modelado predictivo, pruebas A/B, enfoques Bayesianos y NLP.
 
 📊 **Visualización de Alto Impacto:** <br>Dashboards ejecutivos en Power BI y Tableau conectados a modelos de datos normalizados.
-</td>
+  </td>
 
-    <td>    
-    📐 **Rigor Estadístico Aplicado**<br>
+  <td>    
+📐 **Rigor Estadístico Aplicado**<br>
    Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio
 
 🔁 **Ciclo de Datos End-to-End**<br>
