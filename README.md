@@ -5,6 +5,17 @@
 alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 
+<table border="1">
+  <tr>
+    <td>Celda 1</td>
+    <td>Celda 2</td>
+  </tr>
+  <tr>
+    <td>Celda 3</td>
+    <td>Celda 4</td>
+  </tr>
+</table>
+
 ## 👤 Sobre mí
 
 🏗️ **+9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML**  <br> Transformo datos complejos en decisiones estratégicas accionables.
