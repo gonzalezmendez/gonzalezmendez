@@ -5,11 +5,18 @@
 alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  
+  <colgroup>
+    <col style="width: 50%;">
+    <col style="width: 50%;">
+  </colgroup>
+  
   <tr>
-    <td align="center" style="width: 45%; border: 1px solid black;"> <H3> 👤 Sobre mí</td>
-    <td align="center" style="width: 45%; border: 1px solid black;"> <H3> 🧠 Competencias Clave</td>
+    <td align="center" style="width: 50%; border: 1px solid black;"> <H3> 👤 Sobre mí</td>
+    <td align="center" style="width: 50%; border: 1px solid black;"> <H3> 🧠 Competencias Clave</td>
   </tr>
+      
   <tr>
     <td style="width: 50%; border: 1px solid black;">
       <strong>🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML</strong>  <br> Transformo datos complejos en decisiones estratégicas accionables.<br><br>
