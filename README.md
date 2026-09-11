@@ -9,16 +9,14 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 🏗️ **+9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML**  <br> Transformo datos complejos en decisiones estratégicas accionables.
 
-🤖 **IA Aplicada & LLMs:** <br>Pipelines RAG con LangChain + DeepSeek local, Ingeniería de Prompts y despliegue on-premise sin dependencia de cloud.
+🤖 **IA Aplicada & LLMs:** <br>Pipelines RAG, Ingeniería de Prompts y despliegue sin dependencia de cloud.
 
-🔮 **ML & Estadística Avanzada:** <br>XGBoost, modelado predictivo, pruebas A/B, enfoques Bayesianos y NLP en español.
+🔮 **ML & Estadística Avanzada:** <br>XGBoost, modelado predictivo, pruebas A/B, enfoques Bayesianos y NLP.
 
 📊 **Visualización de Alto Impacto:** <br>Dashboards ejecutivos en Power BI y Tableau conectados a modelos de datos normalizados.
 
-📺 **@DatAGM en YouTube:** <br>Proyectos reales de EDA, ML y LLMs documentados de extremo a extremo — teoría, código y resultados aplicados.
 
-
-## 🚀 Featured Projects
+## 🚀 Proyectos
 
 <table width="100%">
   
