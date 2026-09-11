@@ -22,13 +22,13 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
   </tr>
       
   <tr>
-    <td style="width: 50%; border: 1px solid black;">
+    <td style="border: 1px solid black;">
       <strong>🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML</strong>  <br> Transformo datos complejos en decisiones estratégicas accionables.<br><br>
       <strong>🤖 IA Aplicada & LLMs: </strong><br>Pipelines RAG, Ingeniería de Prompts y despliegue sin dependencia de cloud.<br><br>
       <strong>🔮 ML & Estadística Avanzada:</strong><br>XGBoost, modelado predictivo, pruebas A/B, enfoques Bayesianos y NLP.<br><br>
       <strong>📊 Visualización de Alto Impacto:</strong><br>Dashboards ejecutivos en Power BI y Tableau conectados a modelos de datos normalizados.<br><br>
   </td>          
-    <td style="width: 50%; border: 1px solid black;">    
+    <td style="border: 1px solid black;">    
 <strong>📐Rigor Estadístico Aplicado</strong><br>  Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio<br><br>
 <strong>🔁Ciclo de Datos End-to-End</strong><br>   Desde ingesta y EDA hasta modelado, evaluación y despliegue.<br><br>
 <strong>🗣️Comunicación Técnica con Impacto</strong><br> Traduzco métricas y modelos en dashboards ejecutivos y narrativas accionables para perfiles no técnicos (Power BI, Tableau, storytelling).<br><br>
