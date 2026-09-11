@@ -1,5 +1,7 @@
 <table style="width: 100%; border-collapse: collapse;">
- 
+
+ <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo"
+           alt="Fondo" 
  <tr>
   <td align="center" valign="middle" width="80%" style="padding: 10px; border: 1px solid #ccc;">
     <a href="#" target="_blank">
