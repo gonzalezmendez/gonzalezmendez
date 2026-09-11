@@ -45,7 +45,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     <tr>    
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
-          <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="Data Scientist" width="200">
+          <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="IBM 1000" width="200">
         </a>
         <code>Wrangling-EDA</code><br>
         <code>Business-Intelligence</code> 
@@ -61,18 +61,17 @@ El problema técnico a resolver consiste en diseñar e implementar un pipeline d
 
  <tr>    
       <td align="center" width="220">
-        <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
-          <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="Data Scientist" width="200">
+        <a href="https://www.kaggle.com/code/alfredogmdata/carga-visualizacion-y-manipulacion-de-imagenes">
+          <img src="https://storage.googleapis.com/kagglesdsdata/datasets/1282332/3450281/bunny.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20260911%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260911T081048Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=7afc40fcda33e9d064f956539d915f6bf851696901560dd2c035f28fd9f677c51d977ba077d790c918ef9f535f033de67df564197316c4f3f06c138662044ee5129344b710fcfa398f50da061a1c4694ee4855a29c7ff0a51690e435b51e9844176c1ce45fcb165780058b188d34e556c3916a9c80f73da49ae2def6fd5feb9bc2e4963fd9ed5547b432e28a8139b3c7847d05d4b41e2be7bdc268bbb4e27855c6a0f6496bd1635e22c96d70de84d459c30c744118be309257ecaa5da289f4784ad4c0569b944031f81a973275b2b3737af3aab4759b02a617da70ea05c365629bd40625eb262ebc0d8707400407c730688847a49c98848162436ee7e2d47b24" alt="ANIMALES" width="200">
         </a>
-        <code>Wrangling-EDA</code><br>
-        <code>Business-Intelligence</code> 
+        <code>Computer-Vision-and-Image-Processing</code><br>
+        <code>Data-Wrangling-and-Feature-Engineering</code> 
       </td>      
       <td>
-        <strong>El conjunto de datos IMDB Top 1000 presenta un reto clásico de datos denormalizados:</strong><br><br>
-        La variable categórica Genre contiene combinaciones que representan etiquetas múltiples por registro. Realizar agrupaciones directas o consultas simples sobre esta columna genera la pérdida de granularidad o la duplicación errónea de métricas financieras como Gross al desglosar filas.<br>
-El problema técnico a resolver consiste en diseñar e implementar un pipeline de transformación y vectorización de datos (mediante One-Hot Encoding / dummificación) que permita desacoplar los géneros concurrentes.<br>
-        Esto habilitará un análisis exploratorio multivariable libre de sesgos para cuantificar la relación no lineal entre la apreciación del público (Rating) y la monetización en taquilla (Revenue).<br><br>
-         <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code><br>
+        <strong>En su estado nativo, las imágenes representan datos no estructurados.</strong><br><br>
+         Para que los sistemas computacionales puedan extraer valor de ellas —ya sea para auditorías visuales, análisis de patrones o alimentación de modelos de Deep Learning—, es imperativo traducir los archivos binarios (JPEG/PNG) a un lenguaje matemático.<br>
+El problema central radica en que los algoritmos analíticos no procesan "imágenes", sino estructuras numéricas multivariables.<br><br>
+         <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>math</code> <code>Matplotlib</code> <code>torch</code> <code>open_clip</code> <code>random</code> <br>        
       </td>      
     </tr>
     
