@@ -8,7 +8,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; border: 1px solid black;"> <H3> 👤 Sobre mí</td>
-    <td style="width: 50%; border: 1px solid black;">Celda 2</td>
+    <td style="width: 50%; border: 1px solid black;"> <H3> 🧠 Competencias Clave</td>
   </tr>
   <tr>
     <td style="width: 50%; border: 1px solid black;">Celda 3</td>
@@ -18,10 +18,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 
 <table border="1">
-  <tr>
-    <td>
-    <td><H3> 🧠 Competencias Clave</td>
-  </tr>
+
       
   <tr>
     <td>
