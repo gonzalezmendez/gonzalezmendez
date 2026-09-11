@@ -47,7 +47,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
         <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
           <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="Data Scientist" width="200">
         </a>
-        <code>Wrangling-EDA</code>
+        <code>Wrangling-EDA</code><br>
         <code>Business-Intelligence</code> 
       </td>      
       <td>
@@ -55,7 +55,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
         La variable categórica Genre contiene combinaciones que representan etiquetas múltiples por registro. Realizar agrupaciones directas o consultas simples sobre esta columna genera la pérdida de granularidad o la duplicación errónea de métricas financieras como Gross al desglosar filas.<br>
 El problema técnico a resolver consiste en diseñar e implementar un pipeline de transformación y vectorización de datos (mediante One-Hot Encoding / dummificación) que permita desacoplar los géneros concurrentes.<br>
         Esto habilitará un análisis exploratorio multivariable libre de sesgos para cuantificar la relación no lineal entre la apreciación del público (Rating) y la monetización en taquilla (Revenue).<br><br>
-         <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code> <code>ETL</code> <code>One-Hot Encoding</code>
+         <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code><br>
       </td>      
     </tr>
   </tbody>
