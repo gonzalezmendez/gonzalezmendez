@@ -16,7 +16,6 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     <td style="border: 1px solid black; text-align: center;">
       <h3>👤 Sobre mí</h3>
     </td>
-
     <td style="border: 1px solid black; text-align: center;">
       <h3>🧠 Competencias Clave</h3>
     </td>
