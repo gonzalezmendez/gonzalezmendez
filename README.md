@@ -47,6 +47,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
         <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
           <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="Data Scientist" width="200">
         </a>
+        <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code> <code>ETL</code> <code>One-Hot Encoding</code> 
       </td>
       <td>
         <strong>El conjunto de datos IMDB Top 1000 presenta un reto clásico de datos denormalizados:</strong><br><br>
