@@ -55,7 +55,8 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 El problema técnico a resolver consiste en diseñar e implementar un pipeline de transformación y vectorización de datos (mediante One-Hot Encoding / dummificación) que permita desacoplar los géneros concurrentes.<br>
         Esto habilitará un análisis exploratorio multivariable libre de sesgos para cuantificar la relación no lineal entre la apreciación del público (Rating) y la monetización en taquilla (Revenue).<br><br>
 
-        <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code> <code>ETL</code> <code>One-Hot Encoding</code> 
+        <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code> <code>ETL</code> <code>One-Hot Encoding</code>
+        
       </td>      
     </tr>
   </tbody>
