@@ -41,10 +41,8 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 ## 🚀 Proyectos
 
 <table>
-  <tbody>
-    
-    <tr>
-    
+  <tbody>    
+    <tr>    
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
           <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="Data Scientist" width="200">
