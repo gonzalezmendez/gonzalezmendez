@@ -20,27 +20,24 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
           
     <td style="width: 50%; border: 1px solid black;">
     
-    📐 <H5>Rigor Estadístico Aplicado<<br>
-   Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio
+📐 <H5>Rigor Estadístico Aplicado<<br>  Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio<br>
 
 🔁 <H5>Ciclo de Datos End-to-End<br>
    Desde ingesta y EDA hasta modelado, evaluación y despliegue.
 
 🗣️ <H5>Comunicación Técnica con Impacto<br>
-   Traduzco métricas y modelos en dashboards ejecutivos y narrativas accionables para perfiles no técnicos (Power BI, Tableau, storytelling).
+   Traduzco métricas y modelos en dashboards ejecutivos y narrativas accionables para perfiles no técnicos (Power BI, Tableau, storytelling).<br>
 
 🤖 <H5>IA Generativa On-Premise<br>
-   Diseño pipelines RAG e implemento LLMs localmente — resultados de IA sin exponer datos sensibles a la nube.
+   Diseño pipelines RAG e implemento LLMs localmente — resultados de IA sin exponer datos sensibles a la nube.<br>
 
 ⚙️ <H5>Automatización & Calidad de Datos<br>
-   Ingeniería de Prompts + Git + control de versiones para flujos analíticos reproducibles y limpios.
+   Ingeniería de Prompts + Git + control de versiones para flujos analíticos reproducibles y limpios.<br>
 
 📺 <H5>Divulgación Técnica<br>
-   Comunidad activa en YouTube (@DatAGM): proyecto real → código → resultado explicado.    
-    </td>
-    
-    </td>
-  </tr>
+   Comunidad activa en YouTube (@DatAGM): proyecto real → código → resultado explicado.<br>
+   </td>
+   </tr>
 </table>
 
 
