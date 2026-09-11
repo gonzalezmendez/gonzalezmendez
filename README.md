@@ -13,7 +13,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
       
   <tr>
     <td>
-      🏗️ **+9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML**  <br> Transformo datos complejos en decisiones estratégicas accionables.
+      <H1>🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML**  <br> Transformo datos complejos en decisiones estratégicas accionables.
 
 🤖 **IA Aplicada & LLMs:** <br>Pipelines RAG, Ingeniería de Prompts y despliegue sin dependencia de cloud.
 
