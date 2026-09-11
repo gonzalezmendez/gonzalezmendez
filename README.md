@@ -44,15 +44,12 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
   <tbody>
     <tr>
       <td align="center" width="220">
-        <a href="https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing">
-          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Data%20Scientist.png" alt="Data Scientist" width="200">
+        <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
+          <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="Data Scientist" width="200">
         </a>
       </td>
       <td>
-        <strong>Data Scientist | TripleTen</strong><br>
-        <strong>Duración:</strong> 610 horas.<br>
-        <strong>Enfoque:</strong> Dominio del ciclo de vida completo de la ciencia de datos. Incluye análisis exploratorio de datos (EDA), pruebas de hipótesis, Machine Learning supervisado y no supervisado, y despliegue de modelos.<br>
-        <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
+        <strong>describir
       </td>
     </tr>
   </tbody>
