@@ -7,7 +7,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 <table border="1">
   <tr>
-    <td>## 👤 Sobre mí</td>
+    <td><H3> 👤 Sobre mí</td>
     <td>Celda 2</td>
   </tr>
   <tr>
