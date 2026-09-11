@@ -282,11 +282,7 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
     <td>
       <a href="https://drive.google.com/file/d/1Evv1bZVzJuKBxHDHkjQ1z0GWT7Xc51XC/view?usp=drive_link">
       <img src="https://img.shields.io/badge/Curriculum%20ESP-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-    </a>
-    <br><br>
-    <a href="https://drive.google.com/file/d/17Y8xt8sXEsMqrgE1y3IlIVUauO62LtK4/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/Curriculum%20ENG-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-    </a>
+    </a>    
     </td>
   </tr>
   
