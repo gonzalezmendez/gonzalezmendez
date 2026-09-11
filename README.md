@@ -89,8 +89,7 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
         Se desarrolló un modelo predictivo para maximizar la conversión de clientes a nuevos planes, recomendando el producto adecuado según su perfil de uso, optimizando así los ingresos.<br><br>
          <code>colab</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>sklearn</code> <code>DecisionTreeClassifier</code> <code>RandomForestClassifier</code> <code>LogisticRegression</code> <code>accuracy_score</code><br>        
       </td>      
-    </tr>
-    
+    </tr>    
   </tbody>
 </table>
 
