@@ -18,76 +18,19 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 ## 🚀 Proyectos
 
-<table width="100%">
-  
-<thead>
-<tr>
-<th align="center" width="25%">Data Preparation</th>
-<th align="center" width="25%">Machine Learning</th>
-<th align="center" width="25%">Deep Learning</th>
-  <th align="center" width="25%">Business Intelligence</th>
-</tr>
-</thead>
-
-<tbody>
-  
-<tr>
-  
-<td align="center">
-<a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
-<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/001.png" width="100%">
-</a>
-
-<b>EDA & Data Wrangling</b>
-
-Análisis exploratorio, limpieza de características, transformación y preparación de datos.<br><br>
-Exploratory analysis, feature cleaning, transformation and data preparation.
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/gonzalezmendez/Machine-Learning">
-<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/002.png" width="100%">
-</a>
-
-<b>Machine Learning</b>
-
-Modelos supervisados, métricas de evaluación, canalizaciones e ingeniería de características.<br><br>
-Supervised models, evaluation metrics, pipelines and feature engineering.
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/gonzalezmendez/Deep-Learning-NLP">
-<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/003.png" width="100%">
-</a>
-
-<b>Deep Learning & NLP</b>
-
-Redes neuronales, embeddings, transformadores y modelos de lenguaje.<br><br>
-Neural networks, embeddings, transformers and language models.
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/gonzalezmendez/Business-Intelligence">
-<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/004.png" width="100%">
-</a>
-
-<b>Business Intelligence</b>
-
-Dashboard interactivo con métricas clave, storytelling de datos y optimización de procesos.<br><br>
-Interactive dashboard with key metrics, data storytelling, and process optimization.
-
-</td>
-
-</tr>
-
-</tbody>
-</table>
+ <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing">
+          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Data%20Scientist.png" alt="Data Scientist" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Data Scientist | TripleTen</strong><br>
+        <strong>Duración:</strong> 610 horas.<br>
+        <strong>Enfoque:</strong> Dominio del ciclo de vida completo de la ciencia de datos. Incluye análisis exploratorio de datos (EDA), pruebas de hipótesis, Machine Learning supervisado y no supervisado, y despliegue de modelos.<br>
+        <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
+      </td>
+    </tr>
 
 ## 🧠 Competencias Clave
 
