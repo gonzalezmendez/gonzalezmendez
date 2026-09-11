@@ -12,9 +12,14 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     <col style="width: 50%;">
   </colgroup>
   
-  <tr>
-    <td align="center" style="width: 50%; border: 1px solid black;"> <H3> 👤 Sobre mí</td>
-    <td align="center" style="width: 50%; border: 1px solid black;"> <H3> 🧠 Competencias Clave</td>
+   <tr>
+    <td style="border: 1px solid black; text-align: center;">
+      <h3>👤 Sobre mí</h3>
+    </td>
+
+    <td style="border: 1px solid black; text-align: center;">
+      <h3>🧠 Competencias Clave</h3>
+    </td>
   </tr>
       
   <tr>
