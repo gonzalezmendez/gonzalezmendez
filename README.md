@@ -6,8 +6,9 @@
            alt="Fondo" 
            style="max-width: 100%; height: auto; display: block;">
     </a>
-
-
+ 
+ 
+ <tr>
 <td align="left" valign="top" width="20%" style="padding: 20px; border: 1px solid #ccc;">
 
 <h3>🌐 Connect with System</h3>
