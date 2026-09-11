@@ -4,67 +4,6 @@
 <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo"
 alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
- 
- 
- <tr>
-<td align="left" valign="top" width="20%" style="padding: 20px; border: 1px solid #ccc;">
-
-<h3>🌐 Connect with System</h3>
-<table>
- 
-  <tr>
-    <td><strong>LinkedIn</strong></td>
-    <td>
-      <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
-        <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Email</strong></td>
-    <td>
-      <a href="mailto:alfredo.gm.data@gmail.com">
-        <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
-      </a>
-    </td>
-  </tr>
- 
-  <tr>
-    <td><strong>YouTube</strong></td>
-    <td>
-      <a href="https://youtube.com/@DatAGM">
-        <img src="https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Página</strong></td>
-    <td>
-      <a href="https://gonzalezmendez.lovable.app/">
-        <img src="https://img.shields.io/badge/-gonzalezmendez.lovable.app-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>CV</strong></td>
-    <td>
-      <a href="https://drive.google.com/file/d/1Evv1bZVzJuKBxHDHkjQ1z0GWT7Xc51XC/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/Curriculum%20ESP-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-    </a>
-    <br><br>
-    <a href="https://drive.google.com/file/d/17Y8xt8sXEsMqrgE1y3IlIVUauO62LtK4/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/Curriculum%20ENG-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-    </a>
-    </td>
-  </tr>
-  
-</table>
-</td>
-</tr>
-</table>
 
 ## 👤 Sobre mí
 
