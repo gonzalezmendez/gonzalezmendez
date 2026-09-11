@@ -76,6 +76,20 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
          <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>math</code> <code>Matplotlib</code> <code>torch</code> <code>open_clip</code> <code>random</code> <br>        
       </td>      
     </tr>
+
+     <tr>    
+      <td align="center" width="220">
+        <a href="https://colab.research.google.com/drive/1K-FZjjP3jLK7s5bwFBGQfE7eHr5iU8Zv?usp=sharing">
+          <img src="https://redevix.com.br/wp-content/uploads/2022/09/voip_site.webp" alt="MEGALINE" width="200">
+        </a>
+        <code>Machine-Learning</code><br>
+      </td>      
+      <td>
+        <strong>Determinar qué plan de telefonía móvil (Smart o Ultra) recomendar a los clientes actuales basándose en su comportamiento mensual.<br>
+        Se desarrolló un modelo predictivo para maximizar la conversión de clientes a nuevos planes, recomendando el producto adecuado según su perfil de uso, optimizando así los ingresos.<br><br>
+         <code>colab</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>sklearn</code> <code>DecisionTreeClassifier</code> <code>RandomForestClassifier</code> <code>LogisticRegression</code> <code>accuracy_score</code><br>        
+      </td>      
+    </tr>
     
   </tbody>
 </table>
