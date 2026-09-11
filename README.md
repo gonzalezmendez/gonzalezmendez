@@ -77,7 +77,7 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
       </td>      
     </tr>
 
-     <tr>    
+  <tr>    
       <td align="center" width="220">
         <a href="https://colab.research.google.com/drive/1K-FZjjP3jLK7s5bwFBGQfE7eHr5iU8Zv?usp=sharing">
           <img src="https://redevix.com.br/wp-content/uploads/2022/09/voip_site.webp" alt="MEGALINE" width="200">
