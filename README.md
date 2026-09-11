@@ -1,12 +1,9 @@
 <table style="width: 100%; border-collapse: collapse;">
 
 
-<td align="center" valign="middle" width="100%" style="padding: 10px; border: 1px solid #ccc;">
-    <a href="#" target="_blank">
+<href="#" target="_blank">
         <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo"
             alt="Fondo" style="max-width: 100%; height: auto; display: block;">
-    </a>
-  </td> 
 
  
  
