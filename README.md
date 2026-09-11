@@ -21,8 +21,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 📊 **Visualización de Alto Impacto:** <br>Dashboards ejecutivos en Power BI y Tableau conectados a modelos de datos normalizados.
 </td>
 
-    <td>
-    
+    <td>    
     📐 **Rigor Estadístico Aplicado**<br>
    Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio
 
@@ -39,9 +38,8 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
    Ingeniería de Prompts + Git + control de versiones para flujos analíticos reproducibles y limpios.
 
 📺 **Divulgación Técnica**<br>
-   Comunidad activa en YouTube (@DatAGM): proyecto real → código → resultado explicado.
-    
-    /td>
+   Comunidad activa en YouTube (@DatAGM): proyecto real → código → resultado explicado.    
+    </td>
   </tr>
 </table>
 
