@@ -8,32 +8,22 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 <table border="1">
   <tr>
     <td><H3> 👤 Sobre mí</td>
-    <td>Celda 2</td>
+    <td><H3> 🧠 Competencias Clave</td>
   </tr>
   <tr>
-    <td>Celda 3</td>
-    <td>Celda 4</td>
-  </tr>
-</table>
-
-
-
-🏗️ **+9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML**  <br> Transformo datos complejos en decisiones estratégicas accionables.
+    <td>
+      🏗️ **+9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML**  <br> Transformo datos complejos en decisiones estratégicas accionables.
 
 🤖 **IA Aplicada & LLMs:** <br>Pipelines RAG, Ingeniería de Prompts y despliegue sin dependencia de cloud.
 
 🔮 **ML & Estadística Avanzada:** <br>XGBoost, modelado predictivo, pruebas A/B, enfoques Bayesianos y NLP.
 
 📊 **Visualización de Alto Impacto:** <br>Dashboards ejecutivos en Power BI y Tableau conectados a modelos de datos normalizados.
+</td>
 
-
-## 🚀 Proyectos
-
- 
-
-## 🧠 Competencias Clave
-
-📐 **Rigor Estadístico Aplicado**<br>
+    <td>
+    
+    📐 **Rigor Estadístico Aplicado**<br>
    Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio
 
 🔁 **Ciclo de Datos End-to-End**<br>
@@ -50,6 +40,23 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 📺 **Divulgación Técnica**<br>
    Comunidad activa en YouTube (@DatAGM): proyecto real → código → resultado explicado.
+    
+    /td>
+  </tr>
+</table>
+
+
+
+
+
+
+## 🚀 Proyectos
+
+ 
+
+
+
+
 
 
 ## 🎓 Certificaciones & Especializaciones
