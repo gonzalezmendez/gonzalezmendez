@@ -55,6 +55,8 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
         <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
       </td>
     </tr>
+  </tbody>
+</table>
 
 
 ## 🎓 Certificaciones & Especializaciones
@@ -204,16 +206,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
  
-  <tr>
-    <td><strong>YouTube</strong></td>
-    <td>
-      <a href="https://youtube.com/@DatAGM">
-        <img src="https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
+   <tr>
     <td><strong>Página</strong></td>
     <td>
       <a href="https://gonzalezmendez.lovable.app/">
