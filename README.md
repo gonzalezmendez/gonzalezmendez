@@ -22,8 +22,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 <strong>📐Rigor Estadístico Aplicado</strong><br>  Pruebas A/B, test de Levene, enfoques Bayesianos y validación de hipótesis de negocio<br><br>
 <strong>🔁Ciclo de Datos End-to-End</strong><br>   Desde ingesta y EDA hasta modelado, evaluación y despliegue.<br><br>
 <strong>🗣️Comunicación Técnica con Impacto</strong><br> Traduzco métricas y modelos en dashboards ejecutivos y narrativas accionables para perfiles no técnicos (Power BI, Tableau, storytelling).<br><br>
-<strong>🤖IA Generativa On-Premise</strong><br> Diseño pipelines RAG e implemento LLMs localmente — resultados de IA sin exponer datos sensibles a la nube.<br><br>
-<strong>⚙️Automatización & Calidad de Datos</strong><br> Ingeniería de Prompts + Git + control de versiones para flujos analíticos reproducibles y limpios.<br><br>
+<strong>🤖 IA Generativa Local & Automatización de Datos</strong><br> Pipelines RAG con LLMs On-Premise + Prompt Engineering y Git para flujos de datos seguros, limpios y reproducibles.<br><br>
    </td>
    </tr>
 </table>
