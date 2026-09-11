@@ -12,9 +12,9 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
   </tr>
   <tr>
     <td style="width: 50%; border: 1px solid black;">
-      <strong>🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML</strong>  <br> Transformo datos complejos en decisiones estratégicas accionables.<br>
-      <strong>🤖 IA Aplicada & LLMs: </strong><br>Pipelines RAG, Ingeniería de Prompts y despliegue sin dependencia de cloud.<br>
-      <strong>🔮 ML & Estadística Avanzada:</strong><br>XGBoost, modelado predictivo, pruebas A/B, enfoques Bayesianos y NLP.<br>
+      <strong>🏗️ +9 años en BI & Arquitectura de Datos | +2 años en Ciencia de Datos y ML</strong>  <br> Transformo datos complejos en decisiones estratégicas accionables.<br><br>
+      <strong>🤖 IA Aplicada & LLMs: </strong><br>Pipelines RAG, Ingeniería de Prompts y despliegue sin dependencia de cloud.<br><br>
+      <strong>🔮 ML & Estadística Avanzada:</strong><br>XGBoost, modelado predictivo, pruebas A/B, enfoques Bayesianos y NLP.<br><br>
       <strong>📊 Visualización de Alto Impacto:</strong><br>Dashboards ejecutivos en Power BI y Tableau conectados a modelos de datos normalizados.<br>
   </td>          
     <td style="width: 50%; border: 1px solid black;">
