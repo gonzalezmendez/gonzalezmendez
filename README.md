@@ -48,8 +48,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
           <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="Data Scientist" width="200">
         </a>
         <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code> <code>ETL</code> <code>One-Hot Encoding</code> 
-      </td>
-      
+      </td>      
       <td>
         <strong>El conjunto de datos IMDB Top 1000 presenta un reto clásico de datos denormalizados:</strong><br><br>
         La variable categórica Genre contiene combinaciones que representan etiquetas múltiples por registro. Realizar agrupaciones directas o consultas simples sobre esta columna genera la pérdida de granularidad o la duplicación errónea de métricas financieras como Gross al desglosar filas.<br>
