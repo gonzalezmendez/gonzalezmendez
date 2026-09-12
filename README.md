@@ -38,11 +38,9 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 </table>
 <br>
 
-<body> 
 <h2 style="background-color: SteelBlue;">
-Proyectos
+🚀 Proyectos
 </h2>
-</body><br>
 
 <table>
   <tbody>    
