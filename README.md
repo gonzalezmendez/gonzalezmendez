@@ -39,7 +39,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 <br>
 
 <body> 
-<h2 style="background-color: SteelBlue;"> 
+<h2 style="background-color: SteelBlue;">
 🚀 Proyectos
 </h2>
 </body><br>
