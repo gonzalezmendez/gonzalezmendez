@@ -36,13 +36,13 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
    </td>
    </tr>
 </table>
-
+<br>
 
 <body> 
 <h2 style="background-color: SteelBlue;"> 
 ## 🚀 Proyectos
 </h2>
-</body>
+</body><br>
 
 <table>
   <tbody>    
