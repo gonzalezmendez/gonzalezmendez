@@ -18,7 +18,8 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     </td>
     <td style="border: 1px solid black; text-align: center;">
-      <h3>🧠 Competencias Clave</h3>
+      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/competencias.png" width="100%" alt="competencias"
+alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
       
@@ -38,7 +39,8 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
    </tr>
 </table>
 
-<h3>🚀 Proyectos</h3>
+<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/proyectos.png" width="100%" alt="proyectos"
+alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 <table>
   <tbody>    
@@ -94,7 +96,8 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
 </table>
 
 
-## 🎓 Certificaciones & Especializaciones
+<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/certificaciones.png" width="100%" alt="certificaciones"
+alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 <table>
   <tbody>
