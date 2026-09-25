@@ -14,7 +14,8 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
   
    <tr>
     <td style="border: 1px solid black; text-align: center;">
-      <h3>👤 Sobre mí</h3>
+      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/sobremi.png" width="100%" alt="sobremi"
+alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     </td>
     <td style="border: 1px solid black; text-align: center;">
       <h3>🧠 Competencias Clave</h3>
