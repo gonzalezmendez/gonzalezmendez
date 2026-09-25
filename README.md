@@ -61,7 +61,7 @@ El problema técnico a resolver consiste en diseñar e implementar un pipeline d
  <tr>    
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/carga-visualizacion-y-manipulacion-de-imagenes">
-          <img src="https://storage.googleapis.com/kagglesdsdata/datasets/1282332/3450281/bunny.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20260911%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260911T081048Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=7afc40fcda33e9d064f956539d915f6bf851696901560dd2c035f28fd9f677c51d977ba077d790c918ef9f535f033de67df564197316c4f3f06c138662044ee5129344b710fcfa398f50da061a1c4694ee4855a29c7ff0a51690e435b51e9844176c1ce45fcb165780058b188d34e556c3916a9c80f73da49ae2def6fd5feb9bc2e4963fd9ed5547b432e28a8139b3c7847d05d4b41e2be7bdc268bbb4e27855c6a0f6496bd1635e22c96d70de84d459c30c744118be309257ecaa5da289f4784ad4c0569b944031f81a973275b2b3737af3aab4759b02a617da70ea05c365629bd40625eb262ebc0d8707400407c730688847a49c98848162436ee7e2d47b24" alt="ANIMALES" width="200">
+          <img src="https://th.bing.com/th/id/R.71acb0f9a91c933294d23acca614a965?rik=R3Ujq%2f6CmKiwzA&pid=ImgRaw&r=0" alt="ANIMALES" width="200">
         </a>
         <code>Computer-Vision</code><br>
         <code>Image-Processing</code><br>
