@@ -223,7 +223,9 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 <tr>
 <td align="left" valign="top" width="100%" style="padding: 20px; border: 1px solid #ccc;">
 
-<h3>🌐 Connect with System</h3>
+<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/contacta.png" width="100%" alt="contacta"
+alt="Fondo" style="max-width: 100%; height: auto; display: block;">
+
 <table>
  
   <tr>
