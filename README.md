@@ -61,7 +61,7 @@ El problema técnico a resolver consiste en diseñar e implementar un pipeline d
  <tr>    
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/carga-visualizacion-y-manipulacion-de-imagenes">
-          <img src="https://th.bing.com/th/id/R.71acb0f9a91c933294d23acca614a965?rik=R3Ujq%2f6CmKiwzA&pid=ImgRaw&r=0" alt="ANIMALES" width="200">
+          <img src="https://static.vecteezy.com/system/resources/previews/000/107/586/original/vector-animal.jpg" alt="ANIMALES" width="200">
         </a>
         <code>Computer-Vision</code><br>
         <code>Image-Processing</code><br>
