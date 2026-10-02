@@ -92,6 +92,26 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
          <code>colab</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>sklearn</code> <code>DecisionTreeClassifier</code> <code>RandomForestClassifier</code> <code>LogisticRegression</code> <code>accuracy_score</code><br>        
       </td>      
     </tr>    
+
+  <tr>    
+      <td align="center" width="220">
+        <a href="https://www.kaggle.com/code/alfredogmdata/consulta-precio-de-gasolina-en-tiempo-real">
+          <img src="https://tse2.mm.bing.net/th/id/OIP.hj-aBRQ_Y4aSr9TnR9iaQgHaFi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="GASOLINA" width="200">
+        </a>
+        <code>Web Scraping</code><br>
+        <code>Análisis Exploratorio de Datos (EDA)</code><br>
+        <code>Price Analytics</code><br>
+        <code>Predictive Modeling/code><br>
+      </td>      
+      <td>
+        <strong> Constular los precios del combustible en la ciudad de Xalapa, Ver.</strong><br><br>
+        Su objetivo principal es extraer, limpiar y estructurar en tiempo real la información sobre los precios de los combustibles (Magna, Premium y Diésel) ofertados por las distintas estaciones de servicio en la ciudad de Xalapa, Veracruz, a partir de un sitio web.<br><br>
+        
+         <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>geopy.geocoders</code>
+      </td>      
+    </tr>
+
+    
   </tbody>
 </table>
 
