@@ -277,7 +277,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
   <tr>
     <td><strong>CV</strong></td>
     <td>
-      <a href="https://drive.google.com/file/d/1Evv1bZVzJuKBxHDHkjQ1z0GWT7Xc51XC/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/1T5W5XKvM7KnWR7ptw__3DxFd94oX_ggb/view?usp=sharing">
       <img src="https://img.shields.io/badge/Curriculum%20ESP-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
     </a>    
     </td>
