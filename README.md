@@ -101,7 +101,7 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
         <code>Web Scraping</code><br>
         <code>Análisis Exploratorio de Datos (EDA)</code><br>
         <code>Price Analytics</code><br>
-        <code>Predictive Modeling/code><br>
+        <code>Predictive Modeling</code><br>
       </td>      
       <td>
         <strong> Constular los precios del combustible en la ciudad de Xalapa, Ver.</strong><br><br>
