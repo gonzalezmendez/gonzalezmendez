@@ -106,8 +106,7 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
       <td>
         <strong> Constular los precios del combustible en la ciudad de Xalapa, Ver.</strong><br><br>
         Su objetivo principal es extraer, limpiar y estructurar en tiempo real la información sobre los precios de los combustibles (Magna, Premium y Diésel) ofertados por las distintas estaciones de servicio en la ciudad de Xalapa, Veracruz, a partir de un sitio web.<br><br>
-        
-         <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>geopy.geocoders</code>
+        <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>geopy.geocoders</code>
       </td>      
     </tr>
 
