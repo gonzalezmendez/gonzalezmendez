@@ -77,6 +77,23 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
       </td>      
     </tr>
 
+    <tr>
+  <td align="center" width="220">
+        <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
+          <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="IBM 1000" width="200">
+        </a>
+        <code>Wrangling-EDA</code><br>
+        <code>Business-Intelligence</code> 
+      </td>      
+      <td>
+        <strong>El conjunto de datos IMDB Top 1000 presenta un reto clásico de datos denormalizados:</strong><br><br>
+        La variable categórica Genre contiene combinaciones que representan etiquetas múltiples por registro. Realizar agrupaciones directas o consultas simples sobre esta columna genera la pérdida de granularidad o la duplicación errónea de métricas financieras como Gross al desglosar filas.<br>
+El problema técnico a resolver consiste en diseñar e implementar un pipeline de transformación y vectorización de datos (mediante One-Hot Encoding / dummificación) que permita desacoplar los géneros concurrentes.<br>
+        Esto habilitará un análisis exploratorio multivariable libre de sesgos para cuantificar la relación no lineal entre la apreciación del público (Rating) y la monetización en taquilla (Revenue).<br><br>
+         <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code><br>
+      </td>      
+    </tr>
+
   <tr>    
       <td align="center" width="220">
         <a href="https://colab.research.google.com/drive/1K-FZjjP3jLK7s5bwFBGQfE7eHr5iU8Zv?usp=sharing">
@@ -105,23 +122,6 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
         <strong> Constular los precios del combustible en la ciudad de Xalapa, Ver.</strong><br><br>
         Su objetivo principal es extraer, limpiar y estructurar en tiempo real la información sobre los precios de los combustibles (Magna, Premium y Diésel) ofertados por las distintas estaciones de servicio en la ciudad de Xalapa, Veracruz, a partir de un sitio web.<br><br>
         <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>geopy.geocoders</code>
-      </td>      
-    </tr>
-    
-    <tr>
-  <td align="center" width="220">
-        <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
-          <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="IBM 1000" width="200">
-        </a>
-        <code>Wrangling-EDA</code><br>
-        <code>Business-Intelligence</code> 
-      </td>      
-      <td>
-        <strong>El conjunto de datos IMDB Top 1000 presenta un reto clásico de datos denormalizados:</strong><br><br>
-        La variable categórica Genre contiene combinaciones que representan etiquetas múltiples por registro. Realizar agrupaciones directas o consultas simples sobre esta columna genera la pérdida de granularidad o la duplicación errónea de métricas financieras como Gross al desglosar filas.<br>
-El problema técnico a resolver consiste en diseñar e implementar un pipeline de transformación y vectorización de datos (mediante One-Hot Encoding / dummificación) que permita desacoplar los géneros concurrentes.<br>
-        Esto habilitará un análisis exploratorio multivariable libre de sesgos para cuantificar la relación no lineal entre la apreciación del público (Rating) y la monetización en taquilla (Revenue).<br><br>
-         <code>kaggle</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Matplotlib</code> <code>seaborn</code><br>
       </td>      
     </tr>
  
