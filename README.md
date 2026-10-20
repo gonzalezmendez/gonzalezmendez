@@ -37,7 +37,7 @@
 
 <table>
   <tbody>
-
+    <tr>
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/pyswip-prolog">
           <img src="https://pyswip.org/images/pyswip_logo_sm_256colors.gif" alt="Logo de PySwip" width="200">
@@ -70,7 +70,7 @@ El problema central radica en que los algoritmos analíticos no procesan "imáge
       </td>      
     </tr>
 
-    <tr>
+<tr>
   <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/imdb-top-1000-insights">
           <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI" alt="IBM 1000" width="200">
