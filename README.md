@@ -1,8 +1,4 @@
-<table style="width: 100%; border-collapse: collapse;">
-
-
-<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png" width="100%" alt="Fondo"
-alt="Fondo" style="max-width: 100%; height: auto; display: block;">
+<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
@@ -14,12 +10,10 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
   
    <tr>
     <td style="border: 1px solid black; text-align: center;">
-      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/sobremi.png" width="100%" alt="sobremi"
-alt="Fondo" style="max-width: 100%; height: auto; display: block;">
+      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/sobremi.png?raw=true" width="100%" alt="sobremi" style="max-width: 100%; height: auto; display: block;">
     </td>
     <td style="border: 1px solid black; text-align: center;">
-      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/competencias.png" width="100%" alt="competencias"
-alt="Fondo" style="max-width: 100%; height: auto; display: block;">
+      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/competencias.png?raw=true" width="100%" alt="competencias" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
       
@@ -39,15 +33,14 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
    </tr>
 </table>
 
-<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/proyectos.png" width="100%" alt="proyectos"
-alt="Fondo" style="max-width: 100%; height: auto; display: block;">
+<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/proyectos.png?raw=true" width="100%" alt="proyectos" style="max-width: 100%; height: auto; display: block;">
 
 <table>
   <tbody>
     <tr>
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/pyswip-prolog">
-          <img src="https://pyswip.``org/images/pyswip_logo_sm_256colors.gif" alt="pyswip" width="200">
+          <img src="https://pyswip.org/images/pyswip_logo_sm_256colors.gif" alt="Logo de PySwip" width="200">
         </a>
         <code>Programación lógica.</code>
       </td> 
@@ -119,7 +112,7 @@ El problema técnico a resolver consiste en diseñar e implementar un pipeline d
         <code>Predictive Modeling</code><br>
       </td>      
       <td>
-        <strong> Constular los precios del combustible en la ciudad de Xalapa, Ver.</strong><br><br>
+        <strong> Consultar los precios del combustible en la ciudad de Xalapa, Ver.</strong><br><br>
         Su objetivo principal es extraer, limpiar y estructurar en tiempo real la información sobre los precios de los combustibles (Magna, Premium y Diésel) ofertados por las distintas estaciones de servicio en la ciudad de Xalapa, Veracruz, a partir de un sitio web.<br><br>
         <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>geopy.geocoders</code>
       </td>      
@@ -129,8 +122,7 @@ El problema técnico a resolver consiste en diseñar e implementar un pipeline d
 </table>
 
 
-<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/certificaciones.png" width="100%" alt="certificaciones"
-alt="Fondo" style="max-width: 100%; height: auto; display: block;">
+<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/certificaciones.png?raw=true" width="100%" alt="certificaciones" style="max-width: 100%; height: auto; display: block;">
 
 <table>
   <tbody>
@@ -251,53 +243,43 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
   </tbody>
 </table>
 
-## 
+<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/contacta.png?raw=true"
+     width="100%" alt="Contacto"
+     style="max-width: 100%; height: auto; display: block;">
 
-<tr>
-<td align="left" valign="top" width="100%" style="padding: 20px; border: 1px solid #ccc;">
-
-<img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/contacta.png" width="100%" alt="contacta"
-alt="Fondo" style="max-width: 100%; height: auto; display: block;">
-
-<table>
- 
-  <tr>
-    <td><strong>LinkedIn</strong></td>
-    <td>
-      <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
-        <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Email</strong></td>
-    <td>
-      <a href="mailto:alfredo.gm.data@gmail.com">
-        <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
-      </a>
-    </td>
-  </tr>
- 
-   <tr>
-    <td><strong>Página</strong></td>
-    <td>
-      <a href="https://gonzalezmendez.lovable.app/">
-        <img src="https://img.shields.io/badge/-gonzalezmendez.lovable.app-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>CV</strong></td>
-    <td>
-      <a href="https://drive.google.com/file/d/1T5W5XKvM7KnWR7ptw__3DxFd94oX_ggb/view?usp=sharing">
-      <img src="https://img.shields.io/badge/Curriculum%20ESP-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-    </a>    
-    </td>
-  </tr>
-  
-</table>
-</td>
-</tr>
+<table style="width: 100%; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td><strong>LinkedIn</strong></td>
+      <td>
+        <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
+          <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Email</strong></td>
+      <td>
+        <a href="mailto:alfredo.gm.data@gmail.com">
+          <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Correo electrónico">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Página</strong></td>
+      <td>
+        <a href="https://gonzalezmendez.lovable.app/">
+          <img src="https://img.shields.io/badge/-gonzalezmendez.lovable.app-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Página de portafolio">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>CV</strong></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1T5W5XKvM7KnWR7ptw__3DxFd94oX_ggb/view?usp=sharing">
+          <img src="https://img.shields.io/badge/Curriculum%20ESP-PDF-EF4035?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículum en español PDF">
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
