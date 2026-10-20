@@ -37,7 +37,7 @@
 
 <table>
   <tbody>
-    <tr>
+
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/pyswip-prolog">
           <img src="https://pyswip.org/images/pyswip_logo_sm_256colors.gif" alt="Logo de PySwip" width="200">
