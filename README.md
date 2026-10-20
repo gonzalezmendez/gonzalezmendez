@@ -44,14 +44,13 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 <table>
   <tbody>
- <tr>    
+    <tr>
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/pyswip-prolog">
           <img src="https://pyswip.org/images/pyswip_logo_sm_256colors.gif" alt="IBM 1000" width="200">
         </a>
-        <code>Python</code><br>
-        <code>Business-Intelligence</code> 
-      </td>      
+        <code>Programación lógica.</code>
+      </td> 
       <td>
         <strong>Integración de Python y Prolog para el razonamiento lógico</strong><br><br>
        Exploración práctica de la integración entre Python y Prolog mediante PySwip, una biblioteca que permite conectar ambos entornos para trabajar con programación lógica.<br>
