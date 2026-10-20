@@ -47,7 +47,7 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
     <tr>
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/pyswip-prolog">
-          <img src="https://pyswip.``org/images/pyswip_logo_sm_256colors.gif" alt="IBM 1000" width="200">
+          <img src="https://pyswip.``org/images/pyswip_logo_sm_256colors.gif" alt="pyswip" width="200">
         </a>
         <code>Programación lógica.</code>
       </td> 
