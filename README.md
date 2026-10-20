@@ -44,7 +44,6 @@ alt="Fondo" style="max-width: 100%; height: auto; display: block;">
 
 <table>
   <tbody>
-
  <tr>    
       <td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/pyswip-prolog">
