@@ -50,6 +50,27 @@
         El proyecto explora la interacción entre Python y un motor de inferencia basado en hechos y reglas, así como los fundamentos de la representación del conocimiento y el razonamiento computacional.<br><br>
          <code>kaggle</code> <code>Python</code> <code>PySwip</code> <code>Prolog</code>
       </td>      
+    </tr>
+
+    <tr>
+      <td align="center" width="220">
+        <a href="https://www.kaggle.com/code/alfredogmdata/pozos-petroleros">
+          <img src="https://static.wixstatic.com/media/ea835b_44437e1d7d60493bae3be49578642494~mv2.jpg/v1/fill/w_980,h_743,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea835b_44437e1d7d60493bae3be49578642494~mv2.jpg" alt="PozosPetroleo" width="200">
+        </a>
+        <code>Data Science</code>
+        <code>Geospatial Analytics</code>
+        <code>Business Intelligence</code>
+      </td> 
+      <td>
+        <strong>Análisis Exploratorio y Geoespacial de Pozos Petroleros</strong><br><br>
+        Desarrollo de un pipeline de análisis de datos geoespaciales y exploración estadística aplicado a la industria petrolera.<br>
+        El proyecto se enfoca en la limpieza, estructuración y visualización avanzada de registros de pozos, permitiendo identificar patrones espaciales, distribución de variables operativas y características clave de yacimientos a partir de fuentes de datos abiertas.<br><br>
+         <code>kaggle</code>
+         <code>Python</code>
+         <code>Pandas</code>
+         <code>Numpy</code>
+         <code>Matplotlib</code>
+      </td>      
     </tr> 
     
  <tr>    
