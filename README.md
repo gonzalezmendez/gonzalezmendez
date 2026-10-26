@@ -51,9 +51,9 @@
          <code>kaggle</code> <code>Python</code> <code>PySwip</code> <code>Prolog</code>
       </td>      
     </tr>
-
+    
     <tr>
-      <td align="center" width="220">
+<td align="center" width="220">
         <a href="https://www.kaggle.com/code/alfredogmdata/pozos-petroleros">
           <img src="https://static.wixstatic.com/media/ea835b_44437e1d7d60493bae3be49578642494~mv2.jpg/v1/fill/w_980,h_743,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea835b_44437e1d7d60493bae3be49578642494~mv2.jpg" alt="PozosPetroleo" width="200">
         </a>
