@@ -60,9 +60,10 @@
         <code>Data Science</code>
         <code>Geospatial Analytics</code>
         <code>Business Intelligence</code>
+        <code>Bootstrapping</code>
       </td> 
       <td>
-        <strong>Análisis Exploratorio y Geoespacial de Pozos Petroleros</strong><br><br>
+        <strong>Análisis Exploratorio, Riesgos y Propuestas de Inversion en Pozos Petroleros</strong><br><br>
         Desarrollo de un pipeline de análisis de datos geoespaciales y exploración estadística aplicado a la industria petrolera.<br>
         El proyecto se enfoca en la limpieza, estructuración y visualización avanzada de registros de pozos, permitiendo identificar patrones espaciales, distribución de variables operativas y características clave de yacimientos a partir de fuentes de datos abiertas.<br><br>
          <code>kaggle</code>
